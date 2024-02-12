@@ -1,5 +1,5 @@
 const express = require('express');
-const {callWeatherApi,loadDistrictList}= require('./service')
+const {callWeatherApi,loadDistrictList,storeDistrictWiseTemp}= require('./service')
 
 const app= express();
 const PORT = 3000;
@@ -12,13 +12,21 @@ app.get('/api/getWeather',(req,res)=>{
     res.json({message: 'Getting weather'});
 });
 
-app.get('/api/getDistrictListJson',(req,res)=>{
-    loadDistrictList(req);
-    res.json({message: 'Getting District List'});
+app.get('/api/getDistrictListJson',async(req,res)=>{
+ 
+        const response=await loadDistrictList(req);
+        if(response===null){
+            throw new Error('Failed to read data');
+        }
+        const jsonData=await response;
+    console.log("final response",response);
+    res.json(jsonData);
+      
+    
 });
 
 app.post('/api/updatemaptemperature',(req,res)=>{
-    loadDistrictList(req);
+    storeDistrictWiseTemp(req);
     res.json({message: 'update map temp'});
 });
 app.listen(PORT,()=>{
