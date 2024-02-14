@@ -26,7 +26,7 @@ const storeDistrictWiseTemp =(req)=>{
   try{
     const districtList=await loadDistrictJson();
 
-  console.log("districtList-",districtList);
+  //console.log("districtList-",districtList);
   callWeatherApiBasedonDistrictList(districtList);
 }
 catch (error) {
@@ -36,6 +36,25 @@ catch (error) {
 
 }
 
+const updateDistrictTemperature =(req)=>{
+  //method to load all district
+ //get all district 
+(async () =>{
+  try{
+    console.log("request ",req.body);
+    const districtWisetemp=await loadDistrictwiseTemperatureJson();
+    //console.log("districtWisetemp ",districtWisetemp);
+    updateDistrictwiseTemperatureJson(districtWisetemp,req.body.temp,req.body.district,'#161717');
+
+  //console.log("districtList-",districtList);
+  //callWeatherApiBasedonDistrictList(districtList);
+}
+catch (error) {
+  console.error("There was a problem fetching data : ", error);
+}
+})();
+
+}
 
 async function loadDistrictJson(){
   try{
@@ -62,19 +81,48 @@ async function loadDistrictJson(){
     }
     }
 
+    async function updateDistrictwiseTemperatureJson(listofDistrictwiseTemp,temp,district,colourCode){
+      try{
+        //console.log(listofDistrictwiseTemp);
+        for(i=0;i<listofDistrictwiseTemp.length;i++){
+          let arrayTemp=listofDistrictwiseTemp[i].Location;
+          console.log("arrayTemp ",arrayTemp,district);
+          if(arrayTemp.toString().toUpperCase()==district.toString().toUpperCase()){
+            listofDistrictwiseTemp[i].Temperature=parseInt(temp);
+            listofDistrictwiseTemp[i].tempColor=colourCode;
+          }
+        }
+        console.log()
+        fs.writeFile('distrinctWiseTemp.json',JSON.stringify(listofDistrictwiseTemp),(err)=>{
+          if(err){
+            console.error('Error while writing to a file: ',err);
+          }
+          console.log('data written successful');
+        });
+        
+        
+        return "updatedListofDistrictwiseTemp";
+      }catch(error){
+        console.log('Error Fetching data ',error);
+        throw error;
+      }
+      }
+
 
   function callWeatherApiBasedonDistrictList(listofDistrict) {
     var temp = "";
     var location = "";
     var tempColor="";
-        try{
+       /* try{
           existingData=JSON.parse(fs.readFileSync('distrinctWiseTemp.json'));
           console.log("existingData ",existingData);
         }    
         catch(err){
           console.error("Error reading file")
         }
-    for(i=0;i<5;i++){
+        */
+       console.log('listofDistrict length ',listofDistrict.length);
+    for(i=0;i<listofDistrict.length;i++){
       var districtname=listofDistrict[i];
      (async () => {
                 try {
@@ -195,5 +243,6 @@ async function apiCall(place) {
 module.exports={
     callWeatherApi,
     loadDistrictList,
-    storeDistrictWiseTemp
+    storeDistrictWiseTemp,
+    updateDistrictTemperature
 };

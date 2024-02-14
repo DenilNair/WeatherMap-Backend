@@ -1,27 +1,10122 @@
 [
   {
-    "Temperature": 19.2,
-    "Location": "Guntur",
+    "Temperature": 19.3,
+    "Location": "Dhemaji",
     "tempcolor": "#c4e9ff"
   },
   {
-    "Temperature": 21.2,
-    "Location": "Anantapur",
+    "Temperature": 8,
+    "Location": "Godavari",
+    "tempcolor": "#87d1ff"
+  },
+  {
+    "Temperature": 25.7,
+    "Location": "Dibang",
+    "tempcolor": "#fcc59a"
+  },
+  {
+    "Temperature": 14,
+    "Location": "Shahdara",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 17.4,
+    "Location": "Karimganj",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 21,
+    "Location": "Bemetara",
     "tempcolor": "#fcdea9"
   },
   {
-    "Temperature": 18,
-    "Location": "Chittoor",
+    "Temperature": -18.8,
+    "Location": "Kumey",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 17.5,
+    "Location": "Patan",
     "tempcolor": "#c4e9ff"
   },
   {
-    "Temperature": 20.8,
+    "Temperature": -6.7,
+    "Location": "Lower Waterford",
+    "tempcolor": "#002b03"
+  },
+  {
+    "Temperature": 13.5,
+    "Location": "Motihari",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 25.1,
+    "Location": "Ban Sua Kameng",
+    "tempcolor": "#fcc59a"
+  },
+  {
+    "Temperature": 0.7,
+    "Location": "Tawang",
+    "tempcolor": "#47b7fc"
+  },
+  {
+    "Temperature": 18.8,
+    "Location": "Mewat",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 18.9,
+    "Location": "Tinsukia",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 12.2,
+    "Location": "Fatehgarh Sahib",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 25,
+    "Location": "Perambalur",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 23,
+    "Location": "Visakhapatnam",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 25,
+    "Location": "Karaikal",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 19.7,
+    "Location": "Bongaigaon",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 18.6,
+    "Location": "Keonjhar",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 11.1,
+    "Location": "Garo",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 12.1,
+    "Location": "Sikar",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 28,
+    "Location": "Kollam",
+    "tempcolor": "#fcc59a"
+  },
+  {
+    "Temperature": 23.6,
+    "Location": "Koppal",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 19.2,
+    "Location": "Nayagarh",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 12,
+    "Location": "Jammu",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 4.3,
+    "Location": "Almora",
+    "tempcolor": "#47b7fc"
+  },
+  {
+    "Temperature": 20.3,
     "Location": "Krishnanagar",
     "tempcolor": "#fcdea9"
   },
   {
+    "Temperature": 10,
+    "Location": "Chamolia",
+    "tempcolor": "#87d1ff"
+  },
+  {
+    "Temperature": 26,
+    "Location": "Palakkad",
+    "tempcolor": "#fcc59a"
+  },
+  {
+    "Temperature": 21,
+    "Location": "Bhavnagar",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 13,
+    "Location": "West Bromwich",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 15.9,
+    "Location": "Singrauli",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 15.1,
+    "Location": "Sitamarhi",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 12.8,
+    "Location": "Sri Ganganagar",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 19,
+    "Location": "Patna",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 13.2,
+    "Location": "Aligarh",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 15.2,
+    "Location": "Hardoi",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 22,
+    "Location": "Somnath",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 14,
+    "Location": "Jhajjar",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 18.3,
+    "Location": "Kharsawan",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 23.6,
+    "Location": "Dharmavaram",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 5,
+    "Location": "Kannada",
+    "tempcolor": "#47b7fc"
+  },
+  {
+    "Temperature": 17,
+    "Location": "Simdega",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 16.1,
+    "Location": "Garhwa",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 19.6,
+    "Location": "Bilaspur",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 16,
+    "Location": "Bhoi",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 28,
+    "Location": "Lower Valley",
+    "tempcolor": "#fcc59a"
+  },
+  {
+    "Temperature": 16.5,
+    "Location": "Panna",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 22.6,
+    "Location": "Dwarka",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 14,
+    "Location": "Delhi",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 20.2,
+    "Location": "Narsinghpur",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 15.7,
+    "Location": "Mokokchung",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 12.6,
+    "Location": "Zunheboto",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 16,
+    "Location": "Darbhanga",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 18.1,
+    "Location": "Mandla",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 19.2,
+    "Location": "Raigarh",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 14,
+    "Location": "New Delhi",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 13.8,
+    "Location": "Bahraich",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 17.3,
+    "Location": "Jaisalmer",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 18.4,
+    "Location": "Cooch Behar",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 14.8,
+    "Location": "Chandauli",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 16,
+    "Location": "Thenia",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 25,
+    "Location": "Thanjavur",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 21,
+    "Location": "Jangaon",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 17,
+    "Location": "Gaya",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 15.1,
+    "Location": "Mirzapur",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 2.6,
+    "Location": "Poonch",
+    "tempcolor": "#47b7fc"
+  },
+  {
+    "Temperature": 8,
+    "Location": "Karbi",
+    "tempcolor": "#87d1ff"
+  },
+  {
+    "Temperature": 15.3,
+    "Location": "Saharsa",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 13,
+    "Location": "Thanesar",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 24.3,
+    "Location": "Chandrapur",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 18,
+    "Location": "Indore",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 12,
+    "Location": "Jehanabad",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 19.3,
+    "Location": "Chikkamagaluru",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 19,
+    "Location": "Anand",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 10.2,
+    "Location": "Rajouri",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 16.9,
+    "Location": "Chhatarpur",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 13.1,
+    "Location": "Ambala",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 16.1,
+    "Location": "Ashoknagar",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 10.5,
+    "Location": "Imphal",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 26.2,
+    "Location": "Bidar",
+    "tempcolor": "#fcc59a"
+  },
+  {
+    "Temperature": 13,
+    "Location": "West Bromwich",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 26.6,
+    "Location": "Solapur",
+    "tempcolor": "#fcc59a"
+  },
+  {
+    "Temperature": 2.2,
+    "Location": "Anantnag",
+    "tempcolor": "#47b7fc"
+  },
+  {
+    "Temperature": 16.9,
+    "Location": "Barmer",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 17,
+    "Location": "Giridih",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 17,
+    "Location": "Shivpuri",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 20.5,
+    "Location": "Bhadrak",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 14,
+    "Location": "Sonipat",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 11.4,
+    "Location": "Rupnagar",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 19.3,
+    "Location": "Yanam",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 21,
+    "Location": "Hyderabad",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 14.6,
+    "Location": "Sultanpur",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 24.5,
+    "Location": "Adilabad",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 26,
+    "Location": "Tiruvallur",
+    "tempcolor": "#fcc59a"
+  },
+  {
+    "Temperature": 8.6,
+    "Location": "Dickchou",
+    "tempcolor": "#87d1ff"
+  },
+  {
+    "Temperature": 17,
+    "Location": "Dinajpur",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 34.3,
+    "Location": "Carretera 24",
+    "tempcolor": "#ff875e"
+  },
+  {
+    "Temperature": 34.3,
+    "Location": "Carretera 24",
+    "tempcolor": "#ff875e"
+  },
+  {
+    "Temperature": 15.9,
+    "Location": "Jalaun",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 25,
+    "Location": "Ariyalur",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 24.1,
+    "Location": "Pondicherry",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 16.1,
+    "Location": "Umaria",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 22,
+    "Location": "Cuttack",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 15,
+    "Location": "Atari Ajit Singh",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 14.2,
+    "Location": "Ghazipur",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 26,
+    "Location": "Coimbatore",
+    "tempcolor": "#fcc59a"
+  },
+  {
+    "Temperature": 14.5,
+    "Location": "Firozabad",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 25.1,
+    "Location": "Ban Sua Kameng",
+    "tempcolor": "#fcc59a"
+  },
+  {
+    "Temperature": 18.2,
+    "Location": "Kondagaon",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 16.7,
+    "Location": "Madhubani",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 20.5,
+    "Location": "Darrang",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 5.5,
+    "Location": "Solan",
+    "tempcolor": "#87d1ff"
+  },
+  {
+    "Temperature": 19.6,
+    "Location": "Morbi",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 13,
+    "Location": "Mahendragarh",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 15.9,
+    "Location": "Latehar",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 22,
+    "Location": "Amini",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 23.2,
+    "Location": "Dhule",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 27.7,
+    "Location": "Kavaratti",
+    "tempcolor": "#fcc59a"
+  },
+  {
+    "Temperature": 24,
+    "Location": "Bhandara",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 14.1,
+    "Location": "Lunglei",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 12.2,
+    "Location": "Sangrur",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 25,
+    "Location": "Madurai",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 16.2,
+    "Location": "Aizawl",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 24.5,
+    "Location": "Jagtial",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 14,
+    "Location": "Khasi",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 17,
+    "Location": "Dinajpur",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 28,
+    "Location": "Thiruvananthapuram",
+    "tempcolor": "#fcc59a"
+  },
+  {
+    "Temperature": 22.5,
+    "Location": "Khargone",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 14,
+    "Location": "Baghpat",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 22.1,
+    "Location": "Kolhapur",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 20,
+    "Location": "Bangalore",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 18.9,
+    "Location": "Dhanbad",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 25,
+    "Location": "Sivaganga",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 9.3,
+    "Location": "Kabir Al Kabir",
+    "tempcolor": "#87d1ff"
+  },
+  {
+    "Temperature": 19.3,
+    "Location": "Dhubri",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 17.7,
+    "Location": "Siang",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 19.5,
+    "Location": "Sambalpur",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 19.6,
+    "Location": "Bilaspur",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 18.7,
+    "Location": "Shawasha Hills",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 16.6,
+    "Location": "Jodhpur",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 12.7,
+    "Location": "Fatehabad",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 14.2,
+    "Location": "Lawngtlai",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 11.6,
+    "Location": "Kakching",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 21.2,
+    "Location": "Warangal",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 18.4,
+    "Location": "Angul",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 15.2,
+    "Location": "Munger",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 13.2,
+    "Location": "Panipat",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 20.1,
+    "Location": "Suryapet",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 8.6,
+    "Location": "Dickchou",
+    "tempcolor": "#87d1ff"
+  },
+  {
+    "Temperature": 18.6,
+    "Location": "Korba",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 13.9,
+    "Location": "Hisar",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 15,
+    "Location": "Etawah",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 18,
+    "Location": "Barpeta",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 14,
+    "Location": "Rohtak",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 25,
+    "Location": "Palghar",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 14.1,
+    "Location": "Bijnor",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 26.2,
+    "Location": "Nizamabad",
+    "tempcolor": "#fcc59a"
+  },
+  {
+    "Temperature": 20,
+    "Location": "Harda",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 17.1,
+    "Location": "Dumka",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 20,
+    "Location": "Vijayapura",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 12.1,
+    "Location": "Kohima",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 8.6,
+    "Location": "Dickchou",
+    "tempcolor": "#87d1ff"
+  },
+  {
+    "Temperature": 6,
+    "Location": "Pithoragarh",
+    "tempcolor": "#87d1ff"
+  },
+  {
+    "Temperature": 24.3,
+    "Location": "Kannur",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 17,
+    "Location": "Raisen",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 20.3,
+    "Location": "Amreli",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 14,
+    "Location": "Hapur",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 25,
+    "Location": "Mumbai",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 23.8,
+    "Location": "Tirunelveli",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 25,
+    "Location": "Nagapattinam",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 23.7,
+    "Location": "Raichur",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 14,
+    "Location": "Delhi",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 13.1,
+    "Location": "Maharajganj",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 19.3,
+    "Location": "Ganjam",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 20.9,
+    "Location": "Namakkal",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 17.9,
+    "Location": "Biswanath",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 21,
+    "Location": "Baloda Bazar",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 14,
+    "Location": "Faridabad",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 4,
+    "Location": "Koriyama",
+    "tempcolor": "#47b7fc"
+  },
+  {
+    "Temperature": 26,
+    "Location": "Udupi",
+    "tempcolor": "#fcc59a"
+  },
+  {
+    "Temperature": 21.4,
+    "Location": "Nellore",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 21.5,
+    "Location": "Bargarh",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 17.9,
+    "Location": "Sehore",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 14.2,
+    "Location": "Saiha",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 16.2,
+    "Location": "Dharmanagar",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 14.7,
+    "Location": "Bhagat",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 11.9,
+    "Location": "Barnala",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 11.4,
+    "Location": "Churachandpur",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 18.2,
+    "Location": "Gondar",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 24.1,
+    "Location": "Bandarlampung",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 21,
+    "Location": "Purulia",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 16.5,
+    "Location": "Godda",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 12,
+    "Location": "Wokha",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 15.9,
+    "Location": "Pali",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 16.2,
+    "Location": "Dharmanagar",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 16.4,
+    "Location": "Kishanganj",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 20,
+    "Location": "Dholpur",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": -0.7,
+    "Location": "Srinagar",
+    "tempcolor": "#25a8fa"
+  },
+  {
+    "Temperature": 0.3,
+    "Location": "Doda",
+    "tempcolor": "#47b7fc"
+  },
+  {
+    "Temperature": 20.1,
+    "Location": "Botad",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 15.9,
+    "Location": "Satna",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 12,
+    "Location": "Buddha",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 22.2,
+    "Location": "Erode",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 26,
+    "Location": "Idukki",
+    "tempcolor": "#fcc59a"
+  },
+  {
+    "Temperature": 20.4,
+    "Location": "Dahod",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 22.4,
+    "Location": "Nandurbar",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 17.6,
+    "Location": "Kaimur",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 20.1,
+    "Location": "Khordha",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 19.7,
+    "Location": "Dhalai",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 14,
+    "Location": "Delhi",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 14.2,
+    "Location": "Shahjahanpur",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 20,
+    "Location": "Himmatnagar",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 15.2,
+    "Location": "Kannauj",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 21.3,
+    "Location": "Godhra",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 18.7,
+    "Location": "Krishnagiri",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 21,
+    "Location": "Vikarabad",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 19,
+    "Location": "Ahmednagar",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 24.1,
+    "Location": "Parbhani",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 16,
+    "Location": "Dehat",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 13.4,
+    "Location": "Darjeeling",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 14,
+    "Location": "Khasi",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 27.9,
+    "Location": "Bog Daadi",
+    "tempcolor": "#fcc59a"
+  },
+  {
+    "Temperature": 21.5,
+    "Location": "Dhamtari",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 11.6,
+    "Location": "Mahraj",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 25,
+    "Location": "Dindigul",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 18.3,
+    "Location": "Chhindwara",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 12.1,
+    "Location": "Tamenglong",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 7.9,
+    "Location": "Maldaeni",
+    "tempcolor": "#87d1ff"
+  },
+  {
+    "Temperature": 13.7,
+    "Location": "Jhunjhunun",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 13.9,
+    "Location": "West Hills",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 17,
+    "Location": "Dausa",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 7.7,
+    "Location": "Uttarkashi",
+    "tempcolor": "#87d1ff"
+  },
+  {
+    "Temperature": 13.9,
+    "Location": "Amroha",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": -4.6,
+    "Location": "Gadwal",
+    "tempcolor": "#25a8fa"
+  },
+  {
+    "Temperature": 17.7,
+    "Location": "Siang",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 23.3,
+    "Location": "Anantapur",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 6.6,
+    "Location": "Ramban",
+    "tempcolor": "#87d1ff"
+  },
+  {
+    "Temperature": 19,
+    "Location": "Muzaffarpur",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 18.2,
+    "Location": "Dima",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 19.4,
+    "Location": "Vizianagaram",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 26.5,
+    "Location": "Mogadishu",
+    "tempcolor": "#fcc59a"
+  },
+  {
+    "Temperature": 4.9,
+    "Location": "Udhampur",
+    "tempcolor": "#47b7fc"
+  },
+  {
+    "Temperature": 19,
+    "Location": "Nadiad",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 15.2,
+    "Location": "Bhind",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 19.7,
+    "Location": "Bankura",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 15.9,
+    "Location": "Hamirpur",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 19,
+    "Location": "Kothagudem",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 18.4,
+    "Location": "Jamtara",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 11.5,
+    "Location": "Muktsar",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 21.4,
+    "Location": "Kanker",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 15.1,
+    "Location": "Sheohar",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 27,
+    "Location": "Perusahaan Umum Metropolitan",
+    "tempcolor": "#fcc59a"
+  },
+  {
+    "Temperature": 20,
+    "Location": "Mayurbhanj",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 16.2,
+    "Location": "Dharmanagar",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 22,
+    "Location": "Valsad",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 17,
+    "Location": "Nawada",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 20.4,
+    "Location": "Jhabua",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 14,
+    "Location": "Shahdara",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 21,
+    "Location": "Baloda Bazar",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 13.3,
+    "Location": "Tirap",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 19.3,
+    "Location": "Dibrugarh",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 15.6,
+    "Location": "Shahdol",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 20.8,
+    "Location": "Shivamogga",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 0.7,
+    "Location": "Tawang",
+    "tempcolor": "#47b7fc"
+  },
+  {
+    "Temperature": 34.8,
+    "Location": "Manari",
+    "tempcolor": "#ff875e"
+  },
+  {
+    "Temperature": 16.4,
+    "Location": "Neemuch",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 26.2,
+    "Location": "Bidar",
+    "tempcolor": "#fcc59a"
+  },
+  {
+    "Temperature": 16.8,
+    "Location": "Vidisha",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 11.6,
+    "Location": "Pathankot",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 17.7,
+    "Location": "Siang",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 21,
+    "Location": "Baloda Bazar",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 18.9,
+    "Location": "Tinsukia",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 17.9,
+    "Location": "Sehore",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 20.5,
+    "Location": "Darrang",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 20.1,
+    "Location": "Khordha",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 21,
+    "Location": "Gondia",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 12.1,
+    "Location": "Hoshiarpur",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 11.9,
+    "Location": "Kathua",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 18.3,
+    "Location": "Chhindwara",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 22,
+    "Location": "Dadra",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 8.2,
+    "Location": "Palamutlu",
+    "tempcolor": "#87d1ff"
+  },
+  {
+    "Temperature": 20.5,
+    "Location": "Rajkot",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 2.2,
+    "Location": "Kulgam",
+    "tempcolor": "#47b7fc"
+  },
+  {
+    "Temperature": 18.8,
+    "Location": "Mewat",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 14,
+    "Location": "Khasi",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 13.7,
+    "Location": "Jhunjhunun",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 12.9,
+    "Location": "Surajpur",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 19.7,
+    "Location": "Kokrajhar",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 14.8,
+    "Location": "Surguja",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 15,
+    "Location": "Ferozepur",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 15.6,
+    "Location": "Anuppur",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 28,
+    "Location": "Lower Valley",
+    "tempcolor": "#fcc59a"
+  },
+  {
+    "Temperature": 15.5,
+    "Location": "Sidhi",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 13,
+    "Location": "Jehanabad",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 20.4,
+    "Location": "Dahod",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 17,
+    "Location": "Simdega",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 18,
+    "Location": "Mahesana",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 24,
+    "Location": "Palakkad",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": -3.1,
+    "Location": "Kishtwar",
+    "tempcolor": "#25a8fa"
+  },
+  {
+    "Temperature": 6.9,
+    "Location": "Dindori",
+    "tempcolor": "#87d1ff"
+  },
+  {
+    "Temperature": 22.4,
+    "Location": "Vadodara",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 5.5,
+    "Location": "Solan",
+    "tempcolor": "#87d1ff"
+  },
+  {
     "Temperature": 11,
+    "Location": "East Ham",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 11.6,
+    "Location": "Thoubal",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 12.1,
+    "Location": "Kodagu",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 11.9,
+    "Location": "Mamit",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 17.3,
+    "Location": "Malkangiri",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 24.6,
+    "Location": "Yavatmal",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 23.2,
+    "Location": "Dhule",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 15.3,
+    "Location": "Gwalior",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 21,
+    "Location": "Balasore",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 17.6,
+    "Location": "Kaimur",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 8,
     "Location": "Godavari",
+    "tempcolor": "#87d1ff"
+  },
+  {
+    "Temperature": 14.7,
+    "Location": "Bhagat",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 19.6,
+    "Location": "Morbi",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 21,
+    "Location": "Medchal",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 25,
+    "Location": "Sivaganga",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 15.5,
+    "Location": "Nagaur",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 14.2,
+    "Location": "Bharatpur",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 4.3,
+    "Location": "Bageshwar",
+    "tempcolor": "#47b7fc"
+  },
+  {
+    "Temperature": 16.4,
+    "Location": "Karauli",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 26,
+    "Location": "Chennai",
+    "tempcolor": "#fcc59a"
+  },
+  {
+    "Temperature": 15,
+    "Location": "Chittorgarh",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 16.2,
+    "Location": "Dharmanagar",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 17,
+    "Location": "Tonk",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 21.5,
+    "Location": "Nalgonda",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 24,
+    "Location": "Tiruppur",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 25,
+    "Location": "Dindigul",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 21,
+    "Location": "Vikarabad",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 15.6,
+    "Location": "Shahdol",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 13.4,
+    "Location": "Mathura",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 22,
+    "Location": "Cuttack",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 18.9,
+    "Location": "Tinsukia",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 11.6,
+    "Location": "Thoubal",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 20.1,
+    "Location": "Khordha",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 8,
+    "Location": "Asifabad",
+    "tempcolor": "#87d1ff"
+  },
+  {
+    "Temperature": 22,
+    "Location": "Cuttack",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 17,
+    "Location": "Tonk",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 13.1,
+    "Location": "Padrauna",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 24,
+    "Location": "Tiruppur",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 14.4,
+    "Location": "Ballia",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 26,
+    "Location": "Chennai",
+    "tempcolor": "#fcc59a"
+  },
+  {
+    "Temperature": 8,
+    "Location": "Asifabad",
+    "tempcolor": "#87d1ff"
+  },
+  {
+    "Temperature": 20.3,
+    "Location": "Nagar",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 14.4,
+    "Location": "Ballia",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 22,
+    "Location": "Howrah",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 27.7,
+    "Location": "Maupiti Airport",
+    "tempcolor": "#fcc59a"
+  },
+  {
+    "Temperature": 15.5,
+    "Location": "Nagaur",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 18.8,
+    "Location": "Lakhimpur",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 27.7,
+    "Location": "Maupiti Airport",
+    "tempcolor": "#fcc59a"
+  },
+  {
+    "Temperature": 9.3,
+    "Location": "Kabir Al Kabir",
+    "tempcolor": "#87d1ff"
+  },
+  {
+    "Temperature": 19.3,
+    "Location": "Dibrugarh",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 13.1,
+    "Location": "Padrauna",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 16.8,
+    "Location": "Vidisha",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 18.8,
+    "Location": "Lakhimpur",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 18.8,
+    "Location": "Mewat",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 20.3,
+    "Location": "Nagar",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 14,
+    "Location": "Ghaziabad",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 11.6,
+    "Location": "Mahraj",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 13.1,
+    "Location": "Maharajganj",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 21.2,
+    "Location": "Medinipur",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 15.2,
+    "Location": "Kannauj",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 11.9,
+    "Location": "Kathua",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 14,
+    "Location": "Hapur",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 12.9,
+    "Location": "Surajpur",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 13.4,
+    "Location": "Darjeeling",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 11.4,
+    "Location": "Churachandpur",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 19.8,
+    "Location": "Hassan",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 15.2,
+    "Location": "Bhind",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 23.7,
+    "Location": "Hingoli",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 25.7,
+    "Location": "Dibang",
+    "tempcolor": "#fcc59a"
+  },
+  {
+    "Temperature": 18.2,
+    "Location": "Dima",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 26,
+    "Location": "Thrissur",
+    "tempcolor": "#fcc59a"
+  },
+  {
+    "Temperature": 8,
+    "Location": "Lalitpur",
+    "tempcolor": "#87d1ff"
+  },
+  {
+    "Temperature": 20.8,
+    "Location": "Bhojpur",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 19,
+    "Location": "Muzaffarpur",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 7.3,
+    "Location": "Bithra",
+    "tempcolor": "#87d1ff"
+  },
+  {
+    "Temperature": 16.4,
+    "Location": "Bhagalpur",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 15.2,
+    "Location": "Khagaria",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": -6.7,
+    "Location": "Lower Waterford",
+    "tempcolor": "#002b03"
+  },
+  {
+    "Temperature": 18,
+    "Location": "Nadiad",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 14,
+    "Location": "Rohtak",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 19,
+    "Location": "Mehsana",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 15.2,
+    "Location": "Munger",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 20.7,
+    "Location": "Majuli",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 21.3,
+    "Location": "Diu Airport",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 26.6,
+    "Location": "Cacharros",
+    "tempcolor": "#fcc59a"
+  },
+  {
+    "Temperature": 13.5,
+    "Location": "Motihari",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 14,
+    "Location": "Delhi",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 16.1,
+    "Location": "Jalore",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 19,
+    "Location": "Patna",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 21.5,
+    "Location": "Dhamtari",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 12.7,
+    "Location": "Rohtas",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 17,
+    "Location": "Giridih",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": -2.1,
+    "Location": "Kupwara",
+    "tempcolor": "#25a8fa"
+  },
+  {
+    "Temperature": 22,
+    "Location": "Daman",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 12.1,
+    "Location": "Tamenglong",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 20.7,
+    "Location": "Bharuch",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 24.4,
+    "Location": "Nanded",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": -25.6,
+    "Location": "Spiti",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 15.1,
+    "Location": "Allahabad",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 22.6,
+    "Location": "Dwarka",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 17,
+    "Location": "Sagar",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 12.7,
+    "Location": "Fazilka",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 20,
+    "Location": "Vijayapura",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 19.2,
+    "Location": "Goalpara",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 24.1,
+    "Location": "Parbhani",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 10.2,
+    "Location": "Rajouri",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 19,
+    "Location": "Bengaluru",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 24,
+    "Location": "Pudukkottai",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 13,
+    "Location": "Mahendragarh",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 17.9,
+    "Location": "Dungarpur",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 16.9,
+    "Location": "Bundi",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 15.6,
+    "Location": "Supaul",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 23.3,
+    "Location": "Ratnagiri",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 11.1,
+    "Location": "Garo",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 20,
+    "Location": "Balaghat",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 15.6,
+    "Location": "Gumla",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 18.4,
+    "Location": "Angul",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 8.6,
+    "Location": "Kangra",
+    "tempcolor": "#87d1ff"
+  },
+  {
+    "Temperature": 14.5,
+    "Location": "Serchhip",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 20,
+    "Location": "Himmatnagar",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 11.4,
+    "Location": "Churachandpur",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 15.9,
+    "Location": "Hamirpur",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 14,
+    "Location": "Delhi",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 19,
+    "Location": "Kolar",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 20.2,
+    "Location": "Narsinghpur",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 12.1,
+    "Location": "Kohima",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 17.6,
+    "Location": "Deogarh",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 18.9,
+    "Location": "Dhanbad",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 16.2,
+    "Location": "Aizawl",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 28.3,
+    "Location": "Garo",
+    "tempcolor": "#fcc59a"
+  },
+  {
+    "Temperature": 21.4,
+    "Location": "Katni",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 18.2,
+    "Location": "Ratlam",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 14,
+    "Location": "Bulandshahr",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 14.9,
+    "Location": "Rayagada",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 13.2,
+    "Location": "Gorakhpur",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 13.5,
+    "Location": "Etah",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 20.2,
+    "Location": "Burdwan",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 24.2,
+    "Location": "Mancherial",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 19.7,
+    "Location": "Bankura",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 15.2,
+    "Location": "Lakhimpur",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 16.3,
+    "Location": "Sirmaur",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 19.2,
+    "Location": "Goalpara",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 21,
+    "Location": "Purulia",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 21.3,
+    "Location": "Satara",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 23,
+    "Location": "Karwar",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 19.8,
+    "Location": "Hassan",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 20.9,
+    "Location": "Namakkal",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 13.8,
+    "Location": "Basti",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 21.3,
+    "Location": "Godhra",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 21.7,
+    "Location": "Khandwa",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": -25.6,
+    "Location": "Spiti",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 26.1,
+    "Location": "Bijapur",
+    "tempcolor": "#fcc59a"
+  },
+  {
+    "Temperature": 22.9,
+    "Location": "Kurnool",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 17.1,
+    "Location": "Mahoba",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 13.4,
+    "Location": "Alwar",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 15.2,
+    "Location": "Bhind",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 21,
+    "Location": "Bhavnagar",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 13.9,
+    "Location": "Hisar",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": -17.3,
+    "Location": "Arwal",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 4.9,
+    "Location": "Udhampur",
+    "tempcolor": "#47b7fc"
+  },
+  {
+    "Temperature": 13.3,
+    "Location": "Balrampur",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 18.6,
+    "Location": "Sundargarh",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 21,
+    "Location": "Purulia",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 16,
+    "Location": "Thenia",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 21.7,
+    "Location": "Porbandar",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 20.8,
+    "Location": "Srikakulam",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 17.5,
+    "Location": "Patan",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 16.4,
+    "Location": "Ramgarh",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 14.2,
+    "Location": "Lawngtlai",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 17.1,
+    "Location": "Dumka",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 21.5,
+    "Location": "Barwani",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 19.3,
+    "Location": "Chikmagalur",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 23.1,
+    "Location": "Perene",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 25.1,
+    "Location": "Ban Sua Kameng",
+    "tempcolor": "#fcc59a"
+  },
+  {
+    "Temperature": 8,
+    "Location": "Godavari",
+    "tempcolor": "#87d1ff"
+  },
+  {
+    "Temperature": 23.6,
+    "Location": "Yadgir",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 15.5,
+    "Location": "Jamui",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 18.9,
+    "Location": "Salem",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 19.3,
+    "Location": "Dhubri",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 25.1,
+    "Location": "Ban Sua Kameng",
+    "tempcolor": "#fcc59a"
+  },
+  {
+    "Temperature": -24.9,
+    "Location": "Saransk",
+    "tempcolor": "#fcc59a"
+  },
+  {
+    "Temperature": 14.1,
+    "Location": "Rajgarh",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 17.3,
+    "Location": "Jaisalmer",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 25,
+    "Location": "Karaikal",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 14,
+    "Location": "Siwan",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 22.4,
+    "Location": "Aurangabad",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 19.5,
+    "Location": "Malwa",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 13.7,
+    "Location": "Moradabad",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 25.7,
+    "Location": "Thoothukudi",
+    "tempcolor": "#fcc59a"
+  },
+  {
+    "Temperature": 19.3,
+    "Location": "Dhubri",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 24,
+    "Location": "Nagpur",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 14.9,
+    "Location": "Auraiya",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 6.7,
+    "Location": "Tehri-Garhwal",
+    "tempcolor": "#87d1ff"
+  },
+  {
+    "Temperature": -13.7,
+    "Location": "Namsai",
+    "tempcolor": "#87d1ff"
+  },
+  {
+    "Temperature": 16,
+    "Location": "Araria",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 15.4,
+    "Location": "Churu",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 20,
+    "Location": "Dholpur",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 19.3,
+    "Location": "Khammam",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 17,
+    "Location": "Dinajpur",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 14.8,
+    "Location": "Chandauli",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 18.4,
+    "Location": "Cooch Behar",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 14,
+    "Location": "Delhi",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 17,
+    "Location": "Dinajpur",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 21.9,
+    "Location": "Balangir",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 22.4,
+    "Location": "Aurangabad",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 17.4,
+    "Location": "Bastar",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 14.6,
+    "Location": "Sultanpur",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 18.4,
+    "Location": "Murshidabad",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 21.3,
+    "Location": "Viluppuram",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 17.3,
+    "Location": "Chirang",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 14,
+    "Location": "Sonipat",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 13.5,
+    "Location": "Saharanpur",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 12,
+    "Location": "Jammu",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 21,
+    "Location": "Jagatsinghapur",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 10,
+    "Location": "Karbi",
+    "tempcolor": "#87d1ff"
+  },
+  {
+    "Temperature": 19,
+    "Location": "Betul",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 23.2,
+    "Location": "Chitradurga",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 17,
+    "Location": "Nawada",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 24.5,
+    "Location": "Davangere",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 17.2,
+    "Location": "Khowai",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 19.6,
+    "Location": "Durgapur",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 23,
+    "Location": "Karwar",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 20.2,
+    "Location": "Narsinghpur",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 18.6,
+    "Location": "Sundargarh",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 9.8,
+    "Location": "Kullu",
+    "tempcolor": "#87d1ff"
+  },
+  {
+    "Temperature": 19,
+    "Location": "Samastipur",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 19.3,
+    "Location": "South Salmara",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 19.2,
+    "Location": "Nayagarh",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 14.2,
+    "Location": "Saiha",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 12.7,
+    "Location": "Fatehabad",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 14,
+    "Location": "Meerut",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 15.1,
+    "Location": "Mirzapur",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 18,
+    "Location": "Nalbari",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 14.8,
+    "Location": "Varanasi",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 26.2,
+    "Location": "Nizamabad",
+    "tempcolor": "#fcc59a"
+  },
+  {
+    "Temperature": 13.3,
+    "Location": "Hathras",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 15.2,
+    "Location": "Farrukhabad",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 14,
+    "Location": "Delhi",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 21.2,
+    "Location": "Warangal",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 19.6,
+    "Location": "Bilaspur",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 22,
+    "Location": "Baranagar",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 11.9,
+    "Location": "Ludhiana",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 16,
+    "Location": "Katihar",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 21.9,
+    "Location": "Barabanki",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 19.2,
+    "Location": "Raigarh",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 15.4,
+    "Location": "Lakhisarai",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 19.6,
+    "Location": "Guntur",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 19.5,
+    "Location": "Sambalpur",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 29,
+    "Location": "Una-Comandatuba Airport",
+    "tempcolor": "#fcc59a"
+  },
+  {
+    "Temperature": 26,
+    "Location": "Malappuram",
+    "tempcolor": "#fcc59a"
+  },
+  {
+    "Temperature": 17,
+    "Location": "Chatra",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 17.2,
+    "Location": "Mandsaur",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 16.5,
+    "Location": "Panna",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 26,
+    "Location": "Ernakulam",
+    "tempcolor": "#fcc59a"
+  },
+  {
+    "Temperature": 10.5,
+    "Location": "Kangpokpi",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 22,
+    "Location": "Baranagar",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 13,
+    "Location": "Thanesar",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 14.8,
+    "Location": "Varanasi",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 8.6,
+    "Location": "Dickchou",
+    "tempcolor": "#87d1ff"
+  },
+  {
+    "Temperature": 21,
+    "Location": "Medchal",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 18,
+    "Location": "Nadiad",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": -6.7,
+    "Location": "Lower Waterford",
+    "tempcolor": "#002b03"
+  },
+  {
+    "Temperature": 19.6,
+    "Location": "Guntur",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 24,
+    "Location": "Nagpur",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 19.7,
+    "Location": "Bankura",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 17,
+    "Location": "Dinajpur",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 21.3,
+    "Location": "Diu Airport",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 20.1,
+    "Location": "Suryapet",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 26.1,
+    "Location": "Bijapur",
+    "tempcolor": "#fcc59a"
+  },
+  {
+    "Temperature": 14,
+    "Location": "Delhi",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 23,
+    "Location": "Visakhapatnam",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 13,
+    "Location": "West Bromwich",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 24,
+    "Location": "Bhandara",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 12,
+    "Location": "Wokha",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 24.5,
+    "Location": "Adilabad",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 18.7,
+    "Location": "Krishnagiri",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 13,
+    "Location": "Shahjahanpur",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 17.6,
+    "Location": "Jabalpur",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 34.3,
+    "Location": "Carretera 24",
+    "tempcolor": "#ff875e"
+  },
+  {
+    "Temperature": 17.2,
+    "Location": "Pratapgarh",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 22,
+    "Location": "Hooghly",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 18,
+    "Location": "Indore",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 18.2,
+    "Location": "Koraput",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 25,
+    "Location": "Nagapattinam",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 16.4,
+    "Location": "Karauli",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 21,
+    "Location": "Balasore",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 13.4,
+    "Location": "Alwar",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 22,
+    "Location": "Valsad",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 15.2,
+    "Location": "Lakhimpur",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 27.9,
+    "Location": "Bog Daadi",
+    "tempcolor": "#fcc59a"
+  },
+  {
+    "Temperature": 15.9,
+    "Location": "Hamirpur",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 6.9,
+    "Location": "Dindori",
+    "tempcolor": "#87d1ff"
+  },
+  {
+    "Temperature": 19.6,
+    "Location": "Surendranagar",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 0.3,
+    "Location": "Doda",
+    "tempcolor": "#47b7fc"
+  },
+  {
+    "Temperature": 24.2,
+    "Location": "Peddapalli",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 23.8,
+    "Location": "Amravati",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 19.8,
+    "Location": "Hojai",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 14,
+    "Location": "Delhi",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 17.2,
+    "Location": "Pratapgarh",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 24,
+    "Location": "Bhandara",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 15.9,
+    "Location": "Jalaun",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 19.4,
+    "Location": "Vizianagaram",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 13,
+    "Location": "Hanumangarh",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 20.2,
+    "Location": "Junagadh",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 15.9,
+    "Location": "Pali",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 16,
+    "Location": "Darbhanga",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 12,
+    "Location": "Jammu",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 25.6,
+    "Location": "Gulbarga",
+    "tempcolor": "#fcc59a"
+  },
+  {
+    "Temperature": 16.1,
+    "Location": "Jalore",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 13.5,
+    "Location": "Motihari",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 15.9,
+    "Location": "Latehar",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 12.1,
+    "Location": "Kodagu",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 21,
+    "Location": "Puri",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 19.7,
+    "Location": "Dhalai",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 21.9,
+    "Location": "Barabanki",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 15,
+    "Location": "Chittorgarh",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 15,
+    "Location": "Atari Ajit Singh",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 24,
+    "Location": "Thanjavur",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 17.3,
+    "Location": "Jajpur",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 21.1,
+    "Location": "Alirajpur",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 24.2,
+    "Location": "Goa",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 21.5,
+    "Location": "Nalgonda",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 19.5,
+    "Location": "Sambalpur",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 14,
+    "Location": "Delhi",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 11.4,
+    "Location": "Rupnagar",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 17.7,
+    "Location": "Dimapur",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 10.8,
+    "Location": "Gurdaspur",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 19.3,
+    "Location": "South Salmara",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 20.8,
+    "Location": "Bhojpur",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 14,
+    "Location": "Sonipat",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 23.2,
+    "Location": "Chitradurga",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 2.2,
+    "Location": "Kulgam",
+    "tempcolor": "#47b7fc"
+  },
+  {
+    "Temperature": 18,
+    "Location": "Indore",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 26,
+    "Location": "Thrissur",
+    "tempcolor": "#fcc59a"
+  },
+  {
+    "Temperature": 18,
+    "Location": "Mahesana",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 18.4,
+    "Location": "Chittoor",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 14.4,
+    "Location": "Buxar",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 21.2,
+    "Location": "Medinipur",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 20.3,
+    "Location": "Amreli",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 20.3,
+    "Location": "Nagar",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 17.2,
+    "Location": "Palanpur",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 22.4,
+    "Location": "Nandurbar",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 25,
+    "Location": "Palghar",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 19,
+    "Location": "Kothagudem",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 13,
+    "Location": "Bareilly",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": -17.3,
+    "Location": "Arwal",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 20.3,
+    "Location": "Tiruvannamalai",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 22.8,
+    "Location": "Karimnagar",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 11,
+    "Location": "Buddha",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 17.2,
+    "Location": "Bhopal",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 26,
+    "Location": "Ernakulam",
+    "tempcolor": "#fcc59a"
+  },
+  {
+    "Temperature": 20.2,
+    "Location": "Junagadh",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 27,
+    "Location": "Siang",
+    "tempcolor": "#fcc59a"
+  },
+  {
+    "Temperature": 15,
+    "Location": "Atari Ajit Singh",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": -19.3,
+    "Location": "Leh",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 21.6,
+    "Location": "Mahasamund",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 18.4,
+    "Location": "Jamtara",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 0.3,
+    "Location": "Sangli",
+    "tempcolor": "#47b7fc"
+  },
+  {
+    "Temperature": 15.2,
+    "Location": "Hardoi",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 25.8,
+    "Location": "Ramanathapuram",
+    "tempcolor": "#fcc59a"
+  },
+  {
+    "Temperature": 14.8,
+    "Location": "Agra",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 20,
+    "Location": "Balaghat",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 21,
+    "Location": "Bemetara",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": -24.9,
+    "Location": "Saransk",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 18.6,
+    "Location": "Keonjhar",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 15.9,
+    "Location": "Jalaun",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 11.7,
+    "Location": "Jalandhar",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 8.6,
+    "Location": "Dickchou",
+    "tempcolor": "#87d1ff"
+  },
+  {
+    "Temperature": 25.1,
+    "Location": "Cuddalore",
+    "tempcolor": "#fcc59a"
+  },
+  {
+    "Temperature": 12.9,
+    "Location": "Patiala",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 21.4,
+    "Location": "Katni",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 11.1,
+    "Location": "Faridkot",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 22,
+    "Location": "Belagavi",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 15.7,
+    "Location": "Mokokchung",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 14,
+    "Location": "Longding",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 16.9,
+    "Location": "Barmer",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 16.5,
+    "Location": "Banka",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 25,
+    "Location": "Madurai",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 14.1,
+    "Location": "Charkhi Dadri",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 23.3,
+    "Location": "Chandel",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 17.1,
+    "Location": "Hailakandi",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 19,
+    "Location": "Kolar",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 15.6,
+    "Location": "Gumla",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 21.5,
+    "Location": "Barwani",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 21.2,
+    "Location": "Warangal",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 24,
+    "Location": "Karur",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 13.9,
+    "Location": "Amroha",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 24.4,
+    "Location": "Bhuvanagiri",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 12.1,
+    "Location": "Kaithal",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 24.3,
+    "Location": "Gadag",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 24.1,
+    "Location": "Bandarlampung",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 14,
+    "Location": "Gurgaon",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 17.4,
+    "Location": "Bokaro",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 16.2,
+    "Location": "Dharmanagar",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 13.5,
+    "Location": "Gopalganj",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 21,
+    "Location": "Gomati",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 27,
+    "Location": "Siang",
+    "tempcolor": "#fcc59a"
+  },
+  {
+    "Temperature": 18.7,
+    "Location": "Krishnagiri",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 17.7,
+    "Location": "Siang",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 17,
+    "Location": "Dausa",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 13.3,
+    "Location": "Jind",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 11.6,
+    "Location": "Pathankot",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 17.9,
+    "Location": "Sehore",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 22.4,
+    "Location": "Vadodara",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 16.2,
+    "Location": "Dharmanagar",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 13,
+    "Location": "Rampur",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 13.3,
+    "Location": "Balrampur",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 4,
+    "Location": "Koriyama",
+    "tempcolor": "#47b7fc"
+  },
+  {
+    "Temperature": 27,
+    "Location": "Kota Bharu",
+    "tempcolor": "#fcc59a"
+  },
+  {
+    "Temperature": 20.1,
+    "Location": "Botad",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 23.4,
+    "Location": "Ballari",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 20.7,
+    "Location": "Bharuch",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 10.5,
+    "Location": "Imphal",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 19.3,
+    "Location": "Chikmagalur",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 14.5,
+    "Location": "Serchhip",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 24.5,
+    "Location": "Jagtial",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 17.3,
+    "Location": "Jajpur",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 22,
+    "Location": "Amini",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 17.1,
+    "Location": "Mahoba",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 12.4,
+    "Location": "Mandi Bahauddin",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 19,
+    "Location": "Ahmedabad",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 19.6,
+    "Location": "Narayanpur",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 20.3,
+    "Location": "Krishnanagar",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 24.1,
+    "Location": "Bandarlampung",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": -3.1,
+    "Location": "Kishtwar",
+    "tempcolor": "#25a8fa"
+  },
+  {
+    "Temperature": 15,
+    "Location": "Lohardaga",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 14,
+    "Location": "Palwal",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 25,
+    "Location": "Mumbai",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 30,
+    "Location": "Pare",
+    "tempcolor": "#fcc59a"
+  },
+  {
+    "Temperature": 15.2,
+    "Location": "Hardoi",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 16.6,
+    "Location": "Tikamgarh",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 17,
+    "Location": "Gaya",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 24.3,
+    "Location": "Chandrapur",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 23.2,
+    "Location": "Dhule",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 8.2,
+    "Location": "Palamutlu",
+    "tempcolor": "#87d1ff"
+  },
+  {
+    "Temperature": 14.1,
+    "Location": "Bijnor",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 16.6,
+    "Location": "Jodhpur",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 17.3,
+    "Location": "Udalguri",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 15,
+    "Location": "Unnao",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 22.6,
+    "Location": "Nagaon",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 21,
+    "Location": "Jagatsinghapur",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 19.2,
+    "Location": "Nayagarh",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 15,
+    "Location": "Lohardaga",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 17.1,
+    "Location": "Sahibganj",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 14,
+    "Location": "Delhi",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 18.7,
+    "Location": "Shawasha Hills",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 7.7,
+    "Location": "Uttarkashi",
+    "tempcolor": "#87d1ff"
+  },
+  {
+    "Temperature": 20.7,
+    "Location": "Jorhat",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 13.2,
+    "Location": "Panipat",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 21.8,
+    "Location": "Siddipet",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 11.6,
+    "Location": "Kakching",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 14.6,
+    "Location": "Sultanpur",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 16.1,
+    "Location": "Ashoknagar",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 13.8,
+    "Location": "Azamgarh",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 21.2,
+    "Location": "Medinipur",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 15,
+    "Location": "Dehat",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 21,
+    "Location": "Hyderabad",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 30,
+    "Location": "Pare",
+    "tempcolor": "#fcc59a"
+  },
+  {
+    "Temperature": 18.4,
+    "Location": "Jamtara",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 14,
+    "Location": "Palwal",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 17.3,
+    "Location": "Malkangiri",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 16.6,
+    "Location": "Jodhpur",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": -0.7,
+    "Location": "Srinagar",
+    "tempcolor": "#25a8fa"
+  },
+  {
+    "Temperature": 18,
+    "Location": "Barpeta",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 22,
+    "Location": "Bishnupur",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 26,
+    "Location": "Chambas",
+    "tempcolor": "#fcc59a"
+  },
+  {
+    "Temperature": 13.8,
+    "Location": "Jashpurnagar",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 16.1,
+    "Location": "Garhwa",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 9.6,
+    "Location": "Ukhrul",
+    "tempcolor": "#87d1ff"
+  },
+  {
+    "Temperature": 17.3,
+    "Location": "Sukma",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 17.5,
+    "Location": "Damoh",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 16.5,
+    "Location": "Guna",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 23.4,
+    "Location": "Tiruvarur",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 20.5,
+    "Location": "Banswara",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 16.7,
+    "Location": "Madhubani",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 22.8,
+    "Location": "Wanaparthy",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 17.2,
+    "Location": "Pratapgarh",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 15,
+    "Location": "Unnao",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 13.1,
+    "Location": "Deoria",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 22,
+    "Location": "Kolkata",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 28,
+    "Location": "Lower Valley",
+    "tempcolor": "#fcc59a"
+  },
+  {
+    "Temperature": 12.1,
+    "Location": "Kohima",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 10.5,
+    "Location": "Kangpokpi",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 24.5,
+    "Location": "Adilabad",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 25.8,
+    "Location": "Ramanathapuram",
+    "tempcolor": "#fcc59a"
+  },
+  {
+    "Temperature": 14.2,
+    "Location": "Bikaner",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 16.4,
+    "Location": "Bhagalpur",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 14,
+    "Location": "Delhi",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 19.8,
+    "Location": "Hojai",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 18.7,
+    "Location": "Krishnagiri",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 24.4,
+    "Location": "Bhuvanagiri",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 15,
+    "Location": "Chittorgarh",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 25,
+    "Location": "Madurai",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 21,
+    "Location": "Medchal",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 22.8,
+    "Location": "Karimnagar",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 17.1,
+    "Location": "Dumka",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 16.9,
+    "Location": "Barmer",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 10.2,
+    "Location": "Rajouri",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 8,
+    "Location": "Godavari",
+    "tempcolor": "#87d1ff"
+  },
+  {
+    "Temperature": 17.6,
+    "Location": "Kaimur",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 20.8,
+    "Location": "Srikakulam",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 21.9,
+    "Location": "Balangir",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 20,
+    "Location": "Vijayapura",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 19.7,
+    "Location": "Kokrajhar",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 11.1,
+    "Location": "Faridkot",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 16.5,
+    "Location": "Banka",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 23.2,
+    "Location": "Dhule",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 13.3,
+    "Location": "Jind",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 16.4,
+    "Location": "Neemuch",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": -17.3,
+    "Location": "Arwal",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 20.3,
+    "Location": "Amreli",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 24.3,
+    "Location": "Chandrapur",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 22,
+    "Location": "Belagavi",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 27,
+    "Location": "Siang",
+    "tempcolor": "#fcc59a"
+  },
+  {
+    "Temperature": 14,
+    "Location": "Siwan",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 21,
+    "Location": "Bemetara",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 19,
+    "Location": "Patna",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 20.1,
+    "Location": "Botad",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 14,
+    "Location": "Delhi",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 14,
+    "Location": "Delhi",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 19.6,
+    "Location": "Bilaspur",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 26.1,
+    "Location": "Bijapur",
+    "tempcolor": "#fcc59a"
+  },
+  {
+    "Temperature": 19.2,
+    "Location": "Goalpara",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 14,
+    "Location": "Delhi",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 22.6,
+    "Location": "Nagaon",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 14,
+    "Location": "Sonipat",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 18.4,
+    "Location": "Chittoor",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 17.3,
+    "Location": "Sukma",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 4.9,
+    "Location": "Udhampur",
+    "tempcolor": "#47b7fc"
+  },
+  {
+    "Temperature": 17.4,
+    "Location": "Bokaro",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 16,
+    "Location": "Katihar",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 21.5,
+    "Location": "Bargarh",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 11.6,
+    "Location": "Thoubal",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 23,
+    "Location": "Visakhapatnam",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 22.4,
+    "Location": "Nandurbar",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 20,
+    "Location": "Himmatnagar",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 26,
+    "Location": "Ernakulam",
+    "tempcolor": "#fcc59a"
+  },
+  {
+    "Temperature": 15.2,
+    "Location": "Bhind",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 22.4,
+    "Location": "Vadodara",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 21.4,
+    "Location": "Katni",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 18.8,
+    "Location": "Mewat",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 0.7,
+    "Location": "Tawang",
+    "tempcolor": "#47b7fc"
+  },
+  {
+    "Temperature": 15.6,
+    "Location": "Anuppur",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 24.1,
+    "Location": "Pondicherry",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 23.1,
+    "Location": "Perene",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 21,
+    "Location": "Gomati",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 19.3,
+    "Location": "Khammam",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 14.7,
+    "Location": "Bhagat",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 17.9,
+    "Location": "Sehore",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 26,
+    "Location": "Thrissur",
+    "tempcolor": "#fcc59a"
+  },
+  {
+    "Temperature": 18.4,
+    "Location": "Angul",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 24.3,
+    "Location": "Gadag",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 12,
+    "Location": "Wokha",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 9.6,
+    "Location": "Ukhrul",
+    "tempcolor": "#87d1ff"
+  },
+  {
+    "Temperature": 18.9,
+    "Location": "Salem",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 24.2,
+    "Location": "Peddapalli",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 14.8,
+    "Location": "Agra",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 20.2,
+    "Location": "Burdwan",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 27.7,
+    "Location": "Maupiti Airport",
+    "tempcolor": "#fcc59a"
+  },
+  {
+    "Temperature": 20.3,
+    "Location": "Nagar",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 15.5,
+    "Location": "Nagaur",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 13.3,
+    "Location": "Hathras",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 13.3,
+    "Location": "Balrampur",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 20.1,
+    "Location": "Suryapet",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 25,
+    "Location": "Ariyalur",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 13.8,
+    "Location": "Azamgarh",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 14.4,
+    "Location": "Ballia",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 18.4,
+    "Location": "Cooch Behar",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 14,
+    "Location": "Ghaziabad",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 11,
+    "Location": "Buddha",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 14,
+    "Location": "Hapur",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 14,
+    "Location": "Meerut",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 18.2,
+    "Location": "Gondar",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 6,
+    "Location": "Pithoragarh",
+    "tempcolor": "#87d1ff"
+  },
+  {
+    "Temperature": 19.3,
+    "Location": "Dhemaji",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 17.1,
+    "Location": "Datia",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 23.3,
+    "Location": "Anantapur",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 21.3,
+    "Location": "Mysore",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 20.6,
+    "Location": "Mandya",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 24.2,
+    "Location": "Latur",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 21.9,
+    "Location": "Pune",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 18,
+    "Location": "Ahmednagar",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 12.6,
+    "Location": "Zunheboto",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 14.9,
+    "Location": "Bhadohi",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 11,
+    "Location": "Tarn Taran",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 17,
+    "Location": "Jaipur",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 12.2,
+    "Location": "Fatehgarh Sahib",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 8.6,
+    "Location": "Dickchou",
+    "tempcolor": "#87d1ff"
+  },
+  {
+    "Temperature": 16.9,
+    "Location": "Sawai Madhopur",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 5.9,
+    "Location": "Rudraprayag",
+    "tempcolor": "#87d1ff"
+  },
+  {
+    "Temperature": 14,
+    "Location": "Muzaffarnagar",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 12.1,
+    "Location": "Sikar",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 23.6,
+    "Location": "Dharmavaram",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 26.6,
+    "Location": "Solapur",
+    "tempcolor": "#fcc59a"
+  },
+  {
+    "Temperature": 22.5,
+    "Location": "Haveri",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 19.1,
+    "Location": "Mungeli",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 16.5,
+    "Location": "Godda",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 14,
+    "Location": "Delhi",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 23.6,
+    "Location": "Koppal",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 14,
+    "Location": "Rewari",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 28,
+    "Location": "Thiruvananthapuram",
+    "tempcolor": "#fcc59a"
+  },
+  {
+    "Temperature": 24.2,
+    "Location": "Goa",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 18.9,
+    "Location": "Deoghar",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 11.4,
+    "Location": "Dehradun",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 18,
+    "Location": "Gandhinagar",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 12.2,
+    "Location": "Sangrur",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 23.7,
+    "Location": "Jalgaon",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 26.5,
+    "Location": "Mogadishu",
+    "tempcolor": "#fcc59a"
+  },
+  {
+    "Temperature": 34.3,
+    "Location": "Carretera 24",
+    "tempcolor": "#ff875e"
+  },
+  {
+    "Temperature": 22.7,
+    "Location": "Garo",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 7.9,
+    "Location": "Maldaeni",
+    "tempcolor": "#87d1ff"
+  },
+  {
+    "Temperature": 24.2,
+    "Location": "Goa",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 14,
+    "Location": "Longding",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 22.9,
+    "Location": "Kurnool",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 15.9,
+    "Location": "Latehar",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 25.1,
+    "Location": "Ban Sua Kameng",
+    "tempcolor": "#fcc59a"
+  },
+  {
+    "Temperature": 15.2,
+    "Location": "Munger",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 20.4,
+    "Location": "Jhabua",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 17.9,
+    "Location": "Dungarpur",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 24.6,
+    "Location": "Yavatmal",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 17.3,
+    "Location": "Malkangiri",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 21,
+    "Location": "Jagatsinghapur",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 21,
+    "Location": "Hyderabad",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 13.4,
+    "Location": "Alwar",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 15.1,
+    "Location": "Allahabad",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 14.8,
+    "Location": "Chandauli",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 22,
+    "Location": "Kolkata",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 6.6,
+    "Location": "Ramban",
+    "tempcolor": "#87d1ff"
+  },
+  {
+    "Temperature": 20.8,
+    "Location": "Janjgir",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 26,
+    "Location": "Kozhikode",
+    "tempcolor": "#fcc59a"
+  },
+  {
+    "Temperature": 24.6,
+    "Location": "Osmanabad",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 15.4,
+    "Location": "Bhim",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 20.7,
+    "Location": "Majuli",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 15.2,
+    "Location": "Khagaria",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 29,
+    "Location": "Una-Comandatuba Airport",
+    "tempcolor": "#fcc59a"
+  },
+  {
+    "Temperature": -13.7,
+    "Location": "Namsai",
+    "tempcolor": "#fcc59a"
+  },
+  {
+    "Temperature": 21,
+    "Location": "Gondia",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 14,
+    "Location": "Delhi",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 13,
+    "Location": "Jehanabad",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 16,
+    "Location": "Thenia",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 14.1,
+    "Location": "Charkhi Dadri",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 17,
+    "Location": "Simdega",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 16.1,
+    "Location": "Ashoknagar",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 20.5,
+    "Location": "Banswara",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": -4.6,
+    "Location": "Gadwal",
+    "tempcolor": "#25a8fa"
+  },
+  {
+    "Temperature": 8,
+    "Location": "Lalitpur",
+    "tempcolor": "#87d1ff"
+  },
+  {
+    "Temperature": 17,
+    "Location": "Dausa",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 18.6,
+    "Location": "Sundargarh",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 18.6,
+    "Location": "Keonjhar",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 15,
+    "Location": "Hazaribag",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 18,
+    "Location": "Indore",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 12.1,
+    "Location": "Hoshiarpur",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 12.7,
+    "Location": "Rohtas",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 13,
+    "Location": "Bareilly",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 25.6,
+    "Location": "Gulbarga",
+    "tempcolor": "#fcc59a"
+  },
+  {
+    "Temperature": 10,
+    "Location": "Shimla",
+    "tempcolor": "#87d1ff"
+  },
+  {
+    "Temperature": 24.1,
+    "Location": "Parbhani",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 21,
+    "Location": "Bhavnagar",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 23.6,
+    "Location": "Yadgir",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 19,
+    "Location": "Kolar",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 22.2,
+    "Location": "Navsari",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 20,
+    "Location": "Harda",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 15.7,
+    "Location": "Mokokchung",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 21,
+    "Location": "Ramanagaram",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 14.1,
+    "Location": "Bijnor",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 19.3,
+    "Location": "Chikmagalur",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 20.7,
+    "Location": "Bharuch",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 20.1,
+    "Location": "Khordha",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 28,
+    "Location": "Kollam",
+    "tempcolor": "#fcc59a"
+  },
+  {
+    "Temperature": 8.2,
+    "Location": "Palamutlu",
+    "tempcolor": "#87d1ff"
+  },
+  {
+    "Temperature": 13,
+    "Location": "Pilibhit",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 14.2,
+    "Location": "Bharatpur",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 14.4,
+    "Location": "Jaunpur",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 9.3,
+    "Location": "Kabir Al Kabir",
+    "tempcolor": "#87d1ff"
+  },
+  {
+    "Temperature": 13.5,
+    "Location": "Saharanpur",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 17.5,
+    "Location": "Sheopur",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 21,
+    "Location": "Kanpur",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 21,
+    "Location": "Jangaon",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 19.3,
+    "Location": "Yanam",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 14.5,
+    "Location": "Mainpuri",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 23.7,
+    "Location": "Raichur",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 8,
+    "Location": "Godavari",
+    "tempcolor": "#87d1ff"
+  },
+  {
+    "Temperature": 20.3,
+    "Location": "Krishnanagar",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 18.2,
+    "Location": "Dima",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 17.7,
+    "Location": "Siang",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 16,
+    "Location": "Araria",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 20.2,
+    "Location": "Junagadh",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 20.4,
+    "Location": "Dahod",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 19,
+    "Location": "Betul",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 16.1,
+    "Location": "Garhwa",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 16.4,
+    "Location": "Ramgarh",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 12.1,
+    "Location": "Tamenglong",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 17.2,
+    "Location": "Mandsaur",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 16.4,
+    "Location": "Karauli",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 22,
+    "Location": "Cuttack",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 8.6,
+    "Location": "Dickchou",
+    "tempcolor": "#87d1ff"
+  },
+  {
+    "Temperature": 17.3,
+    "Location": "Jajpur",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 25,
+    "Location": "Karaikal",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 25,
+    "Location": "Dindigul",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 24,
+    "Location": "Thanjavur",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 24.2,
+    "Location": "Mancherial",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 15.1,
+    "Location": "Mirzapur",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 21.2,
+    "Location": "Warangal",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 18.4,
+    "Location": "Murshidabad",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 14,
+    "Location": "Delhi",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 8.6,
+    "Location": "Dickchou",
+    "tempcolor": "#87d1ff"
+  },
+  {
+    "Temperature": 9,
+    "Location": "Phek",
+    "tempcolor": "#87d1ff"
+  },
+  {
+    "Temperature": 7.7,
+    "Location": "Aoraki - Mount Cook Airport",
+    "tempcolor": "#87d1ff"
+  },
+  {
+    "Temperature": 14.9,
+    "Location": "Sitapur",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 18.1,
+    "Location": "Mandla",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 13.3,
+    "Location": "Kasganj",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 15.1,
+    "Location": "Sheohar",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 12,
+    "Location": "Jammu",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 22.6,
+    "Location": "Surat",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 21.3,
+    "Location": "Chhota Udepur",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 0.3,
+    "Location": "Doda",
+    "tempcolor": "#47b7fc"
+  },
+  {
+    "Temperature": 12.1,
+    "Location": "Kaithal",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 21.3,
+    "Location": "Godhra",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 26,
+    "Location": "Kasaragod",
+    "tempcolor": "#fcc59a"
+  },
+  {
+    "Temperature": 18.4,
+    "Location": "Jamtara",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 14,
+    "Location": "Rohtak",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 20.8,
+    "Location": "Shivamogga",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 17.7,
+    "Location": "Siang",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 19,
+    "Location": "Anand",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 17,
+    "Location": "Shivpuri",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 13.2,
+    "Location": "Aligarh",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 16.2,
+    "Location": "Dharmanagar",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 17.3,
+    "Location": "Chirang",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 21.3,
+    "Location": "Diu Airport",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 18,
+    "Location": "Nalbari",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 21.8,
+    "Location": "Siddipet",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 19.3,
+    "Location": "Ganjam",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 24.4,
+    "Location": "Nanded",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 15.1,
+    "Location": "Begusarai",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 14.1,
+    "Location": "Rajgarh",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 8,
+    "Location": "Asifabad",
+    "tempcolor": "#87d1ff"
+  },
+  {
+    "Temperature": 13.8,
+    "Location": "Jashpurnagar",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 19.6,
+    "Location": "Narayanpur",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 22.4,
+    "Location": "Aurangabad",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 24.3,
+    "Location": "Akola",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 17,
+    "Location": "Sagar",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 11.1,
+    "Location": "Garo",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 14,
+    "Location": "Khasi",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 24,
+    "Location": "Pudukkottai",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 20.3,
+    "Location": "Tiruvannamalai",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 12.6,
+    "Location": "Sirsa",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 26,
+    "Location": "Kottayam",
+    "tempcolor": "#fcc59a"
+  },
+  {
+    "Temperature": 11,
+    "Location": "East Ham",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 21,
+    "Location": "Vikarabad",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 7.7,
+    "Location": "Uttarkashi",
+    "tempcolor": "#87d1ff"
+  },
+  {
+    "Temperature": 14.6,
+    "Location": "Sultanpur",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 13,
+    "Location": "Rampur",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 16.5,
+    "Location": "Panna",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 11.7,
+    "Location": "Jalandhar",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 17.1,
+    "Location": "Mahoba",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 15,
+    "Location": "West Hills",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 16.6,
+    "Location": "Tikamgarh",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 13.2,
+    "Location": "Gorakhpur",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 25.1,
+    "Location": "Ban Sua Kameng",
+    "tempcolor": "#fcc59a"
+  },
+  {
+    "Temperature": -2.1,
+    "Location": "Kupwara",
+    "tempcolor": "#25a8fa"
+  },
+  {
+    "Temperature": 16.2,
+    "Location": "Aizawl",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 22,
+    "Location": "Dadra",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": -18.8,
+    "Location": "Kumey",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 13.8,
+    "Location": "Basti",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 22,
+    "Location": "Amini",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 17.5,
+    "Location": "Damoh",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 15.2,
+    "Location": "Hardoi",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 14.8,
+    "Location": "Varanasi",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 26,
+    "Location": "Coimbatore",
+    "tempcolor": "#fcc59a"
+  },
+  {
+    "Temperature": 19,
+    "Location": "Bengaluru",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 17,
+    "Location": "Raisen",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 19.5,
+    "Location": "Malwa",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 15,
+    "Location": "Unnao",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 24.3,
+    "Location": "Kannur",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 16.5,
+    "Location": "Jhansi",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 15,
+    "Location": "Raebareli",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 21.4,
+    "Location": "Nellore",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 25,
+    "Location": "Mumbai",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 21,
+    "Location": "Dhenkanal",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 25,
+    "Location": "Palghar",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 13.4,
+    "Location": "Darjeeling",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 19.7,
+    "Location": "Bankura",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 17,
+    "Location": "Gaya",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 10.5,
+    "Location": "Kangpokpi",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 20.3,
+    "Location": "Krishnanagar",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 13.9,
+    "Location": "Amroha",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 18.4,
+    "Location": "Chittoor",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 14,
+    "Location": "Delhi",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 23,
+    "Location": "Visakhapatnam",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 10,
+    "Location": "Karbi",
+    "tempcolor": "#87d1ff"
+  },
+  {
+    "Temperature": 13,
+    "Location": "Jehanabad",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": -17.3,
+    "Location": "Arwal",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 17.7,
+    "Location": "Siang",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 8.6,
+    "Location": "Kangra",
+    "tempcolor": "#87d1ff"
+  },
+  {
+    "Temperature": 13.8,
+    "Location": "Jashpurnagar",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 16.4,
+    "Location": "Ramgarh",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 28,
+    "Location": "Thiruvananthapuram",
+    "tempcolor": "#fcc59a"
+  },
+  {
+    "Temperature": 15.9,
+    "Location": "Latehar",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 15.6,
+    "Location": "Supaul",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 19.6,
+    "Location": "Surendranagar",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 17.9,
+    "Location": "Sehore",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 9.8,
+    "Location": "Kullu",
+    "tempcolor": "#87d1ff"
+  },
+  {
+    "Temperature": 17.5,
+    "Location": "Damoh",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 24.3,
+    "Location": "Chandrapur",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 7.3,
+    "Location": "Bithra",
+    "tempcolor": "#87d1ff"
+  },
+  {
+    "Temperature": 14,
+    "Location": "Longding",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 18.3,
+    "Location": "Chhindwara",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 19.3,
+    "Location": "Yanam",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 8.6,
+    "Location": "Dickchou",
+    "tempcolor": "#87d1ff"
+  },
+  {
+    "Temperature": 25,
+    "Location": "Palghar",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 27,
+    "Location": "Siang",
+    "tempcolor": "#fcc59a"
+  },
+  {
+    "Temperature": 10,
+    "Location": "Shimla",
+    "tempcolor": "#87d1ff"
+  },
+  {
+    "Temperature": 27,
+    "Location": "Perusahaan Umum Metropolitan",
+    "tempcolor": "#fcc59a"
+  },
+  {
+    "Temperature": 22,
+    "Location": "Daman",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 18.9,
+    "Location": "Tinsukia",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 12.4,
+    "Location": "Mandi Bahauddin",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 22.4,
+    "Location": "Aurangabad",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 30,
+    "Location": "Pare",
+    "tempcolor": "#fcc59a"
+  },
+  {
+    "Temperature": 14,
+    "Location": "Rohtak",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 17.6,
+    "Location": "Kaimur",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 14,
+    "Location": "Delhi",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 27.9,
+    "Location": "Bog Daadi",
+    "tempcolor": "#fcc59a"
+  },
+  {
+    "Temperature": 15.4,
+    "Location": "Lakhisarai",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 15.2,
+    "Location": "Munger",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 20.5,
+    "Location": "Rajkot",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 17.7,
+    "Location": "Siang",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": -13.7,
+    "Location": "Namsai",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 24,
+    "Location": "Palakkad",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 23.2,
+    "Location": "Chitradurga",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 10.2,
+    "Location": "Rajouri",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": -19.3,
+    "Location": "Leh",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 19,
+    "Location": "Mehsana",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 18,
+    "Location": "Indore",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 25,
+    "Location": "Ariyalur",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 23.2,
+    "Location": "Dhule",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 18.1,
+    "Location": "Mandla",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 16.5,
+    "Location": "Guna",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 26.1,
+    "Location": "Bijapur",
+    "tempcolor": "#fcc59a"
+  },
+  {
+    "Temperature": 5.5,
+    "Location": "Solan",
+    "tempcolor": "#87d1ff"
+  },
+  {
+    "Temperature": 18.4,
+    "Location": "Jamtara",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 23.6,
+    "Location": "Koppal",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 12.1,
+    "Location": "Sikar",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 20,
+    "Location": "Himmatnagar",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 12,
+    "Location": "Wokha",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 14,
+    "Location": "Delhi",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 19,
+    "Location": "Betul",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 22.6,
+    "Location": "Dwarka",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 21.9,
+    "Location": "Pune",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 17,
+    "Location": "Sagar",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 27,
+    "Location": "Kota Bharu",
+    "tempcolor": "#fcc59a"
+  },
+  {
+    "Temperature": 24,
+    "Location": "Tiruppur",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 24.2,
+    "Location": "Latur",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 21.2,
+    "Location": "Warangal",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 11.6,
+    "Location": "Pathankot",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 17.3,
+    "Location": "Malkangiri",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 19.5,
+    "Location": "Malwa",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 21.3,
+    "Location": "Chhota Udepur",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 13,
+    "Location": "Hanumangarh",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 15.7,
+    "Location": "Mokokchung",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 15.9,
+    "Location": "Pali",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 25,
+    "Location": "Dindigul",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 11.9,
+    "Location": "Ludhiana",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 23.4,
+    "Location": "Tiruvarur",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 14.4,
+    "Location": "Ballia",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 19.2,
+    "Location": "Nayagarh",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 24.2,
+    "Location": "Mancherial",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 20.5,
+    "Location": "Banswara",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 21.4,
+    "Location": "Katni",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 15.4,
+    "Location": "Churu",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 9.6,
+    "Location": "Ukhrul",
+    "tempcolor": "#87d1ff"
+  },
+  {
+    "Temperature": 21,
+    "Location": "Vikarabad",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 21.5,
+    "Location": "Nalgonda",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 10.8,
+    "Location": "Gurdaspur",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 10.5,
+    "Location": "Imphal",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 11.7,
+    "Location": "Jalandhar",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 22.8,
+    "Location": "Karimnagar",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 12.2,
+    "Location": "Fatehgarh Sahib",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 17.3,
+    "Location": "Jajpur",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 22,
+    "Location": "Cuttack",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 20,
+    "Location": "Mayurbhanj",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 13.8,
+    "Location": "Basti",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 24.1,
+    "Location": "Parbhani",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 14,
+    "Location": "Hapur",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 21.9,
+    "Location": "Barabanki",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 14.5,
+    "Location": "Firozabad",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 18.8,
+    "Location": "Lakhimpur",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 13.1,
+    "Location": "Maharajganj",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 14.1,
+    "Location": "Bijnor",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 27.7,
+    "Location": "Maupiti Airport",
+    "tempcolor": "#fcc59a"
+  },
+  {
+    "Temperature": 23.8,
+    "Location": "Tirunelveli",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 16.5,
+    "Location": "Jhansi",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 26,
+    "Location": "Kanchipuram",
+    "tempcolor": "#fcc59a"
+  },
+  {
+    "Temperature": 15.3,
+    "Location": "Saharsa",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 14,
+    "Location": "New Delhi",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 15.9,
+    "Location": "Rewa",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 12.8,
+    "Location": "Chandigarh",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 26,
+    "Location": "Udupi",
+    "tempcolor": "#fcc59a"
+  },
+  {
+    "Temperature": 20.6,
+    "Location": "Nalanda",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 5,
+    "Location": "Baksan",
+    "tempcolor": "#47b7fc"
+  },
+  {
+    "Temperature": 22.1,
+    "Location": "Kolhapur",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 24,
+    "Location": "Perambalur",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 15.9,
+    "Location": "Singrauli",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 17.4,
+    "Location": "Karimganj",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 18.8,
+    "Location": "Seoni",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 13,
+    "Location": "Karnal",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 15,
+    "Location": "Etawah",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 18.9,
+    "Location": "Nagar",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 8,
+    "Location": "Godavari",
+    "tempcolor": "#87d1ff"
+  },
+  {
+    "Temperature": 17.3,
+    "Location": "Chirang",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 17.1,
+    "Location": "Mahoba",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 22,
+    "Location": "Amini",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 19.6,
+    "Location": "Durgapur",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 21.3,
+    "Location": "Diu Airport",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 19.6,
+    "Location": "Bilaspur",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 19.2,
+    "Location": "Goalpara",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 24.1,
+    "Location": "Pondicherry",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 21.6,
+    "Location": "Mahasamund",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 11.6,
+    "Location": "Kakching",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 16.6,
+    "Location": "Tikamgarh",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 12.1,
+    "Location": "Hoshiarpur",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 26,
+    "Location": "Chambas",
+    "tempcolor": "#fcc59a"
+  },
+  {
+    "Temperature": 15.6,
+    "Location": "Gumla",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 24.5,
+    "Location": "Davangere",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 23.6,
+    "Location": "Dharmavaram",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 17,
+    "Location": "Raisen",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 11.4,
+    "Location": "Rupnagar",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 17.2,
+    "Location": "Khowai",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 23.1,
+    "Location": "Perene",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 11.4,
+    "Location": "Dehradun",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 20.9,
+    "Location": "Namakkal",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 11.6,
+    "Location": "Mahraj",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 17.2,
+    "Location": "Pratapgarh",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 15.4,
+    "Location": "Bhim",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 13,
+    "Location": "Shahjahanpur",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 26,
+    "Location": "Ernakulam",
+    "tempcolor": "#fcc59a"
+  },
+  {
+    "Temperature": 15.1,
+    "Location": "Allahabad",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 20.3,
+    "Location": "Nagar",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 14,
+    "Location": "Shahdara",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 23.3,
+    "Location": "Ratnagiri",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 14.9,
+    "Location": "Sitapur",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 18.4,
+    "Location": "Murshidabad",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 34.3,
+    "Location": "Carretera 24",
+    "tempcolor": "#ff875e"
+  },
+  {
+    "Temperature": 7.9,
+    "Location": "Maldaeni",
+    "tempcolor": "#87d1ff"
+  },
+  {
+    "Temperature": 21.2,
+    "Location": "Medinipur",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 14,
+    "Location": "Faridabad",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 26.1,
+    "Location": "Tapi-Tapi",
+    "tempcolor": "#fcc59a"
+  },
+  {
+    "Temperature": 19.8,
+    "Location": "Sheikhpura",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 21.3,
+    "Location": "Burhanpur",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 17,
+    "Location": "Koderma",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 19.7,
+    "Location": "Bongaigaon",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 15,
+    "Location": "Lucknow",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 15.5,
+    "Location": "Ajmer",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 26,
+    "Location": "Tiruvallur",
+    "tempcolor": "#fcc59a"
+  },
+  {
+    "Temperature": 26.6,
+    "Location": "Cacharros",
+    "tempcolor": "#fcc59a"
+  },
+  {
+    "Temperature": 18,
+    "Location": "Nalbari",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 22.9,
+    "Location": "Kurnool",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 19.3,
+    "Location": "Chikmagalur",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 12.7,
+    "Location": "Fatehabad",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 15.5,
+    "Location": "Jamui",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 17.2,
+    "Location": "Palanpur",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 22,
+    "Location": "Dadra",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 14.5,
+    "Location": "Serchhip",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 17.7,
+    "Location": "Siang",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 6.7,
+    "Location": "Tehri-Garhwal",
+    "tempcolor": "#87d1ff"
+  },
+  {
+    "Temperature": 24.5,
+    "Location": "Adilabad",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 14.2,
+    "Location": "Lawngtlai",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 14.2,
+    "Location": "Ghazipur",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 14.8,
+    "Location": "Surguja",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 23.7,
+    "Location": "Raichur",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 17.1,
+    "Location": "Sahibganj",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 15.1,
+    "Location": "Sitamarhi",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 21.1,
+    "Location": "Alirajpur",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 18,
+    "Location": "Gandhinagar",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 14.4,
+    "Location": "Buxar",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 13,
+    "Location": "Pilibhit",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 11.1,
+    "Location": "Garo",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 13.5,
+    "Location": "Gopalganj",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 11.9,
+    "Location": "Mamit",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 23.7,
+    "Location": "Hingoli",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 23.4,
+    "Location": "Kanyakumari",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 15.2,
+    "Location": "Kannauj",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 26,
+    "Location": "Coimbatore",
+    "tempcolor": "#fcc59a"
+  },
+  {
+    "Temperature": 11.9,
+    "Location": "Kathua",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 23.8,
+    "Location": "Amravati",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 6.9,
+    "Location": "Dindori",
+    "tempcolor": "#87d1ff"
+  },
+  {
+    "Temperature": 22,
+    "Location": "Kolkata",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 20.7,
+    "Location": "Bharuch",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": -25.6,
+    "Location": "Spiti",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 15.1,
+    "Location": "Mirzapur",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 22,
+    "Location": "Raipur",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 14,
+    "Location": "Rewari",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 16.4,
+    "Location": "Neemuch",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 17.2,
+    "Location": "Pratapgarh",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 12.1,
+    "Location": "Kodagu",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 13.8,
+    "Location": "Bahraich",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 5,
+    "Location": "Kannada",
+    "tempcolor": "#47b7fc"
+  },
+  {
+    "Temperature": 15.9,
+    "Location": "Hamirpur",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 14.4,
+    "Location": "Jaunpur",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 20,
+    "Location": "Rajpipla",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 23,
+    "Location": "Jalna",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 22.6,
+    "Location": "Medak",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 9.9,
+    "Location": "Tuensang",
+    "tempcolor": "#87d1ff"
+  },
+  {
+    "Temperature": 21,
+    "Location": "Baloda Bazar",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 34.8,
+    "Location": "Manari",
+    "tempcolor": "#ff875e"
+  },
+  {
+    "Temperature": 19.3,
+    "Location": "Dhubri",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 20.7,
+    "Location": "Majuli",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 0.7,
+    "Location": "Tawang",
+    "tempcolor": "#47b7fc"
+  },
+  {
+    "Temperature": 20.2,
+    "Location": "Junagadh",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 14,
+    "Location": "Delhi",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 25.7,
+    "Location": "Dibang",
+    "tempcolor": "#fcc59a"
+  },
+  {
+    "Temperature": 21.7,
+    "Location": "Porbandar",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 19.6,
+    "Location": "Bilaspur",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 14.1,
+    "Location": "Charkhi Dadri",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 15.2,
+    "Location": "Lakhimpur",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 22,
+    "Location": "Belagavi",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 15.1,
+    "Location": "Sheohar",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 22.4,
+    "Location": "Aurangabad",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 26.2,
+    "Location": "Bidar",
+    "tempcolor": "#fcc59a"
+  },
+  {
+    "Temperature": 13.3,
+    "Location": "Jind",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": -0.7,
+    "Location": "Srinagar",
+    "tempcolor": "#25a8fa"
+  },
+  {
+    "Temperature": 21.3,
+    "Location": "Mysore",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 22.2,
+    "Location": "Navsari",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 16.3,
+    "Location": "Sirmaur",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 15.3,
+    "Location": "Gwalior",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 26,
+    "Location": "Kasaragod",
+    "tempcolor": "#fcc59a"
+  },
+  {
+    "Temperature": 21,
+    "Location": "Gondia",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 16.2,
+    "Location": "Aizawl",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 18.7,
+    "Location": "Shawasha Hills",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 16.1,
+    "Location": "Ashoknagar",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 12.7,
+    "Location": "Fazilka",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 24.6,
+    "Location": "Yavatmal",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 24.3,
+    "Location": "Akola",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 18.2,
+    "Location": "Kondagaon",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 25,
+    "Location": "Nagapattinam",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 28.3,
+    "Location": "Garo",
+    "tempcolor": "#fcc59a"
+  },
+  {
+    "Temperature": 15,
+    "Location": "Chittorgarh",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 8,
+    "Location": "Lalitpur",
+    "tempcolor": "#87d1ff"
+  },
+  {
+    "Temperature": 13.4,
+    "Location": "Alwar",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 14,
+    "Location": "Jhajjar",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 21.8,
+    "Location": "Siddipet",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 15,
+    "Location": "Khunti",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 21.2,
+    "Location": "Warangal",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 13,
+    "Location": "Bareilly",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 17,
+    "Location": "Dinajpur",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 12.8,
+    "Location": "Sri Ganganagar",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 21,
+    "Location": "Purulia",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 21,
+    "Location": "Kendrapara",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 16.1,
+    "Location": "Umaria",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 22.5,
+    "Location": "Khargone",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 19.1,
+    "Location": "Beed Bolin",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 17.2,
+    "Location": "Jhalawar",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 30,
+    "Location": "Pare",
+    "tempcolor": "#fcc59a"
+  },
+  {
+    "Temperature": -6.7,
+    "Location": "Lower Waterford",
+    "tempcolor": "#002b03"
+  },
+  {
+    "Temperature": 17.7,
+    "Location": "Siang",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 17.7,
+    "Location": "Siang",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": -18.8,
+    "Location": "Kumey",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 26.6,
+    "Location": "Cacharros",
+    "tempcolor": "#fcc59a"
+  },
+  {
+    "Temperature": 19.3,
+    "Location": "Dhemaji",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 19.3,
+    "Location": "Dibrugarh",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 27,
+    "Location": "Perusahaan Umum Metropolitan",
+    "tempcolor": "#fcc59a"
+  },
+  {
+    "Temperature": 22.6,
+    "Location": "Nagaon",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 13.5,
+    "Location": "Gopalganj",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 16.7,
+    "Location": "Madhubani",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 12.7,
+    "Location": "Rohtas",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 15.1,
+    "Location": "Sheohar",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 17.4,
+    "Location": "Bastar",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 18.2,
+    "Location": "Kondagaon",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 14,
+    "Location": "New Delhi",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 14,
+    "Location": "Delhi",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 16.4,
+    "Location": "Kishanganj",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 14,
+    "Location": "Delhi",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 24.2,
+    "Location": "Goa",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 24.2,
+    "Location": "Goa",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 19,
+    "Location": "Ahmedabad",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 21.3,
+    "Location": "Chhota Udepur",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 19.1,
+    "Location": "Ahwa",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 19,
+    "Location": "Mehsana",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 21.3,
+    "Location": "Godhra",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 14.1,
+    "Location": "Charkhi Dadri",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 14,
+    "Location": "Gurgaon",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 13.3,
+    "Location": "Jind",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 13,
+    "Location": "Mahendragarh",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 14,
+    "Location": "Palwal",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 12.6,
+    "Location": "Sirsa",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 12.4,
+    "Location": "Mandi Bahauddin",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 29,
+    "Location": "Una-Comandatuba Airport",
+    "tempcolor": "#fcc59a"
+  },
+  {
+    "Temperature": 2.2,
+    "Location": "Kulgam",
+    "tempcolor": "#47b7fc"
+  },
+  {
+    "Temperature": 17.1,
+    "Location": "Dumka",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 16.1,
+    "Location": "Garhwa",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 15.6,
+    "Location": "Gumla",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 15,
+    "Location": "Lohardaga",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 13,
+    "Location": "West Bromwich",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 22,
+    "Location": "Belagavi",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 8,
+    "Location": "Godavari",
+    "tempcolor": "#87d1ff"
+  },
+  {
+    "Temperature": 18.4,
+    "Location": "Chittoor",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 19.6,
+    "Location": "Guntur",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 22.9,
+    "Location": "Kurnool",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 19.4,
+    "Location": "Vizianagaram",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 20.8,
+    "Location": "Srikakulam",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 0.7,
+    "Location": "Tawang",
+    "tempcolor": "#47b7fc"
+  },
+  {
+    "Temperature": 20.3,
+    "Location": "Krishnanagar",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 34.8,
+    "Location": "Manari",
+    "tempcolor": "#ff875e"
+  },
+  {
+    "Temperature": 23,
+    "Location": "Visakhapatnam",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 23.3,
+    "Location": "Anantapur",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 27.9,
+    "Location": "Bog Daadi",
+    "tempcolor": "#fcc59a"
+  },
+  {
+    "Temperature": 25.1,
+    "Location": "Ban Sua Kameng",
+    "tempcolor": "#fcc59a"
+  },
+  {
+    "Temperature": 21.4,
+    "Location": "Nellore",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 27,
+    "Location": "Siang",
+    "tempcolor": "#fcc59a"
+  },
+  {
+    "Temperature": 25.7,
+    "Location": "Dibang",
+    "tempcolor": "#fcc59a"
+  },
+  {
+    "Temperature": 17.7,
+    "Location": "Siang",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 17.7,
+    "Location": "Siang",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 28,
+    "Location": "Lower Valley",
+    "tempcolor": "#fcc59a"
+  },
+  {
+    "Temperature": -13.7,
+    "Location": "Namsai",
+    "tempcolor": "#fcc59a"
+  },
+  {
+    "Temperature": 25.1,
+    "Location": "Ban Sua Kameng",
+    "tempcolor": "#fcc59a"
+  },
+  {
+    "Temperature": 14,
+    "Location": "Longding",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 8,
+    "Location": "Godavari",
+    "tempcolor": "#87d1ff"
+  },
+  {
+    "Temperature": 5,
+    "Location": "Baksan",
+    "tempcolor": "#47b7fc"
+  },
+  {
+    "Temperature": 18,
+    "Location": "Barpeta",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 19.7,
+    "Location": "Bongaigaon",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 20.5,
+    "Location": "Darrang",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 17.3,
+    "Location": "Chirang",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 13.3,
+    "Location": "Tirap",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 19.3,
+    "Location": "Dhubri",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 19.2,
+    "Location": "Goalpara",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 20.7,
+    "Location": "Jorhat",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 20.7,
+    "Location": "Majuli",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 17.4,
+    "Location": "Karimganj",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 15.2,
+    "Location": "Lakhimpur",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 17.1,
+    "Location": "Hailakandi",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 19.7,
+    "Location": "Kokrajhar",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 18,
+    "Location": "Nalbari",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 19.3,
+    "Location": "South Salmara",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 18.9,
+    "Location": "Tinsukia",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 10,
+    "Location": "Karbi",
+    "tempcolor": "#87d1ff"
+  },
+  {
+    "Temperature": 19.8,
+    "Location": "Hojai",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 17.3,
+    "Location": "Udalguri",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 16.5,
+    "Location": "Banka",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 16,
+    "Location": "Araria",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 22.4,
+    "Location": "Aurangabad",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": -17.3,
+    "Location": "Arwal",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 16.4,
+    "Location": "Bhagalpur",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 16,
+    "Location": "Darbhanga",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 20.8,
+    "Location": "Bhojpur",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 13.5,
+    "Location": "Motihari",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 15.5,
+    "Location": "Jamui",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 17.6,
+    "Location": "Kaimur",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 17,
+    "Location": "Gaya",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 13,
+    "Location": "Jehanabad",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 15.2,
+    "Location": "Khagaria",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 16,
+    "Location": "Katihar",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 15.1,
+    "Location": "Begusarai",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 15.2,
+    "Location": "Munger",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 15.4,
+    "Location": "Lakhisarai",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 14.4,
+    "Location": "Buxar",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 20.6,
+    "Location": "Nalanda",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 19,
+    "Location": "Muzaffarpur",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 17,
+    "Location": "Nawada",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 15.3,
+    "Location": "Saharsa",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 19,
+    "Location": "Samastipur",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 14,
+    "Location": "Siwan",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 15.6,
+    "Location": "Supaul",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 15.1,
+    "Location": "Sitamarhi",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": -24.9,
+    "Location": "Saransk",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 19,
+    "Location": "Patna",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 21,
+    "Location": "Baloda Bazar",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 12.8,
+    "Location": "Chandigarh",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 21,
+    "Location": "Baloda Bazar",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 18.2,
+    "Location": "Dima",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 19.6,
+    "Location": "Bilaspur",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 26.1,
+    "Location": "Bijapur",
+    "tempcolor": "#fcc59a"
+  },
+  {
+    "Temperature": 19.8,
+    "Location": "Sheikhpura",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 21.5,
+    "Location": "Dhamtari",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 20.8,
+    "Location": "Janjgir",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 13.8,
+    "Location": "Jashpurnagar",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 19.6,
+    "Location": "Durgapur",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 15,
+    "Location": "Lohitzun-Oyhercq",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 13.3,
+    "Location": "Balrampur",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 4,
+    "Location": "Koriyama",
+    "tempcolor": "#47b7fc"
+  },
+  {
+    "Temperature": 21.4,
+    "Location": "Kanker",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 22,
+    "Location": "Raipur",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 17.9,
+    "Location": "Biswanath",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 21,
+    "Location": "Bemetara",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 22,
+    "Location": "Dadra",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 14.8,
+    "Location": "Surguja",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 19.1,
+    "Location": "Mungeli",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 17.3,
+    "Location": "Sukma",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 19.6,
+    "Location": "Narayanpur",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 21.6,
+    "Location": "Mahasamund",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 22,
+    "Location": "Daman",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 12.9,
+    "Location": "Surajpur",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 14,
+    "Location": "Delhi",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 14,
+    "Location": "Delhi",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 20.2,
+    "Location": "Golaghat",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 14,
+    "Location": "Shahdara",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 14,
+    "Location": "Delhi",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 19.2,
+    "Location": "Raigarh",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 21.3,
+    "Location": "Diu Airport",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 14,
+    "Location": "Delhi",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 14,
+    "Location": "Delhi",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 18.6,
+    "Location": "Korba",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 8,
+    "Location": "Karbi",
+    "tempcolor": "#87d1ff"
+  },
+  {
+    "Temperature": 15.7,
+    "Location": "Purnia",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 13,
+    "Location": "West Bromwich",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 14,
+    "Location": "Delhi",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 14,
+    "Location": "Delhi",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 17.2,
+    "Location": "Palanpur",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 20.3,
+    "Location": "Amreli",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 20.7,
+    "Location": "Bharuch",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 19,
+    "Location": "Anand",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 20.1,
+    "Location": "Botad",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 21,
+    "Location": "Bhavnagar",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 20.4,
+    "Location": "Dahod",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 22.6,
+    "Location": "Dwarka",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 18,
+    "Location": "Gandhinagar",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 20.7,
+    "Location": "Jamnagar",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 20.2,
+    "Location": "Junagadh",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 22,
+    "Location": "Somnath",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 1.3,
+    "Location": "Kheda",
+    "tempcolor": "#47b7fc"
+  },
+  {
+    "Temperature": 19.6,
+    "Location": "Morbi",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 20,
+    "Location": "Rajpipla",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 22.2,
+    "Location": "Navsari",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 17.5,
+    "Location": "Patan",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 21.7,
+    "Location": "Porbandar",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 22.6,
+    "Location": "Surat",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 20,
+    "Location": "Himmatnagar",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 26.1,
+    "Location": "Tapi-Tapi",
+    "tempcolor": "#fcc59a"
+  },
+  {
+    "Temperature": 22,
+    "Location": "Valsad",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 22.4,
+    "Location": "Vadodara",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 19.6,
+    "Location": "Surendranagar",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 20.5,
+    "Location": "Rajkot",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 12.7,
+    "Location": "Fatehabad",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 14,
+    "Location": "Faridabad",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 13.9,
+    "Location": "Hisar",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 14,
+    "Location": "Jhajjar",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 12.1,
+    "Location": "Kaithal",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 13,
+    "Location": "Karnal",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 18.8,
+    "Location": "Mewat",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 14,
+    "Location": "Rohtak",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 13.2,
+    "Location": "Panipat",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 14,
+    "Location": "Rewari",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 14,
+    "Location": "Sonipat",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 19.6,
+    "Location": "Bilaspur",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 26,
+    "Location": "Chambas",
+    "tempcolor": "#fcc59a"
+  },
+  {
+    "Temperature": 9.8,
+    "Location": "Kullu",
+    "tempcolor": "#87d1ff"
+  },
+  {
+    "Temperature": -25.6,
+    "Location": "Spiti",
+    "tempcolor": "#87d1ff"
+  },
+  {
+    "Temperature": 8.6,
+    "Location": "Kangra",
+    "tempcolor": "#87d1ff"
+  },
+  {
+    "Temperature": 15.9,
+    "Location": "Hamirpur",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 10,
+    "Location": "Shimla",
+    "tempcolor": "#87d1ff"
+  },
+  {
+    "Temperature": 5.5,
+    "Location": "Solan",
+    "tempcolor": "#87d1ff"
+  },
+  {
+    "Temperature": 16.3,
+    "Location": "Sirmaur",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 13.1,
+    "Location": "Ambala",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 0.3,
+    "Location": "Doda",
+    "tempcolor": "#47b7fc"
+  },
+  {
+    "Temperature": 12,
+    "Location": "Jammu",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 11.9,
+    "Location": "Kathua",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": -3.1,
+    "Location": "Kishtwar",
+    "tempcolor": "#25a8fa"
+  },
+  {
+    "Temperature": 6.6,
+    "Location": "Ramban",
+    "tempcolor": "#87d1ff"
+  },
+  {
+    "Temperature": -19.3,
+    "Location": "Leh",
+    "tempcolor": "#87d1ff"
+  },
+  {
+    "Temperature": 10.2,
+    "Location": "Rajouri",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": -2.1,
+    "Location": "Kupwara",
+    "tempcolor": "#25a8fa"
+  },
+  {
+    "Temperature": -0.7,
+    "Location": "Srinagar",
+    "tempcolor": "#25a8fa"
+  },
+  {
+    "Temperature": 19.5,
+    "Location": "Sambalpur",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 17.4,
+    "Location": "Bokaro",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 18.9,
+    "Location": "Deoghar",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 4.9,
+    "Location": "Udhampur",
+    "tempcolor": "#47b7fc"
+  },
+  {
+    "Temperature": 17,
+    "Location": "Chatra",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 18.9,
+    "Location": "Dhanbad",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 17,
+    "Location": "Giridih",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 11,
+    "Location": "East Ham",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 16.5,
+    "Location": "Godda",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 18.4,
+    "Location": "Jamtara",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 14.1,
+    "Location": "Bhiwani",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 15,
+    "Location": "Khunti",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 15,
+    "Location": "Hazaribag",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 17,
+    "Location": "Koderma",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 15.9,
+    "Location": "Latehar",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 2.2,
+    "Location": "Anantnag",
+    "tempcolor": "#47b7fc"
+  },
+  {
+    "Temperature": 17.1,
+    "Location": "Sahibganj",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 8.2,
+    "Location": "Palamutlu",
+    "tempcolor": "#87d1ff"
+  },
+  {
+    "Temperature": 16.4,
+    "Location": "Ramgarh",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": -21.9,
+    "Location": "Kargil",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 17,
+    "Location": "Simdega",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": -0.7,
+    "Location": "Ganderbal",
+    "tempcolor": "#25a8fa"
+  },
+  {
+    "Temperature": 2.6,
+    "Location": "Poonch",
+    "tempcolor": "#47b7fc"
+  },
+  {
+    "Temperature": 19,
+    "Location": "Bengaluru",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 23.4,
+    "Location": "Ballari",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": -0.6,
+    "Location": "Pulwama",
+    "tempcolor": "#25a8fa"
+  },
+  {
+    "Temperature": 26.2,
+    "Location": "Bidar",
+    "tempcolor": "#fcc59a"
+  },
+  {
+    "Temperature": 19,
+    "Location": "Bengaluru",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 19.3,
+    "Location": "Chikmagalur",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 23.2,
+    "Location": "Chitradurga",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 24.5,
+    "Location": "Davangere",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 24.3,
+    "Location": "Gadag",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 23.6,
+    "Location": "Koppal",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 12.1,
+    "Location": "Kodagu",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 23,
+    "Location": "Karwar",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 15.2,
+    "Location": "Khagaria",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 17.3,
+    "Location": "Sukma",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 16.4,
+    "Location": "Kishanganj",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 17,
+    "Location": "Nawada",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 19.2,
+    "Location": "Raigarh",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 12.6,
+    "Location": "Sirsa",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 21.5,
+    "Location": "Dhamtari",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 15,
+    "Location": "Ferozepur",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 11.5,
+    "Location": "Muktsar",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 16.9,
+    "Location": "Barmer",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 16.9,
+    "Location": "Sawai Madhopur",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 13,
+    "Location": "West Bromwich",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 13.2,
+    "Location": "Yamunanagar",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 5,
+    "Location": "Kannada",
+    "tempcolor": "#47b7fc"
+  },
+  {
+    "Temperature": 22.5,
+    "Location": "Haveri",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 25.6,
+    "Location": "Gulbarga",
+    "tempcolor": "#fcc59a"
+  },
+  {
+    "Temperature": 19.8,
+    "Location": "Hassan",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 19,
+    "Location": "Kolar",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 20.6,
+    "Location": "Mandya",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 21.3,
+    "Location": "Mysore",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 21,
+    "Location": "Ramanagaram",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 23.7,
+    "Location": "Raichur",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 20.8,
+    "Location": "Shivamogga",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 26,
+    "Location": "Udupi",
+    "tempcolor": "#fcc59a"
+  },
+  {
+    "Temperature": 23.6,
+    "Location": "Yadgir",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 26,
+    "Location": "Ernakulam",
+    "tempcolor": "#fcc59a"
+  },
+  {
+    "Temperature": 20,
+    "Location": "Vijayapura",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 24.3,
+    "Location": "Kannur",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 28,
+    "Location": "Kollam",
+    "tempcolor": "#fcc59a"
+  },
+  {
+    "Temperature": 26,
+    "Location": "Kottayam",
+    "tempcolor": "#fcc59a"
+  },
+  {
+    "Temperature": 26,
+    "Location": "Kasaragod",
+    "tempcolor": "#fcc59a"
+  },
+  {
+    "Temperature": 16.4,
+    "Location": "Ranchi",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 24.7,
+    "Location": "Bagalkot",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 26,
+    "Location": "Alappuzha",
+    "tempcolor": "#fcc59a"
+  },
+  {
+    "Temperature": 23.3,
+    "Location": "Dharwad",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 26,
+    "Location": "Idukki",
+    "tempcolor": "#fcc59a"
+  },
+  {
+    "Temperature": 19,
+    "Location": "Tumakuru",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 2.2,
+    "Location": "Anantnag",
+    "tempcolor": "#47b7fc"
+  },
+  {
+    "Temperature": 18.3,
+    "Location": "Kharsawan",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 8,
+    "Location": "Karbi",
+    "tempcolor": "#87d1ff"
+  },
+  {
+    "Temperature": 16,
+    "Location": "Katihar",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 13.2,
+    "Location": "Yamunanagar",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 12.1,
+    "Location": "Kaithal",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 17.3,
+    "Location": "Udalguri",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 12.6,
+    "Location": "Zunheboto",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 17,
+    "Location": "Shivpuri",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 13.7,
+    "Location": "Moradabad",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 29,
+    "Location": "Una-Comandatuba Airport",
+    "tempcolor": "#fcc59a"
+  },
+  {
+    "Temperature": 19,
+    "Location": "Ahmedabad",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 26.2,
+    "Location": "Nizamabad",
+    "tempcolor": "#fcc59a"
+  },
+  {
+    "Temperature": 19.6,
+    "Location": "Morbi",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 14,
+    "Location": "Meerut",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 17,
+    "Location": "Dausa",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 22.8,
+    "Location": "Wanaparthy",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 19,
+    "Location": "Bengaluru",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 13.1,
+    "Location": "Padrauna",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 15.5,
+    "Location": "Nagaur",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 11.1,
+    "Location": "Garo",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 8.6,
+    "Location": "Dickchou",
+    "tempcolor": "#87d1ff"
+  },
+  {
+    "Temperature": 13.3,
+    "Location": "Tirap",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": -6.7,
+    "Location": "Lower Waterford",
+    "tempcolor": "#002b03"
+  },
+  {
+    "Temperature": 9.3,
+    "Location": "Kabir Al Kabir",
+    "tempcolor": "#87d1ff"
+  },
+  {
+    "Temperature": 19,
+    "Location": "Bengaluru",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 17.1,
+    "Location": "Datia",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 22,
+    "Location": "Bishnupur",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 18.2,
+    "Location": "Koraput",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 22,
+    "Location": "Howrah",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 20.3,
+    "Location": "Nagar",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 20.1,
+    "Location": "Botad",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 17.2,
+    "Location": "Mandsaur",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 20.4,
+    "Location": "Jhabua",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 23.7,
+    "Location": "Jalgaon",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 15.2,
+    "Location": "Farrukhabad",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 13,
+    "Location": "West Bromwich",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 13.1,
+    "Location": "Ambala",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 18.3,
+    "Location": "Kharsawan",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 20.3,
+    "Location": "Tiruvannamalai",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 18.9,
+    "Location": "Deoghar",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 6.6,
+    "Location": "Ramban",
+    "tempcolor": "#87d1ff"
+  },
+  {
+    "Temperature": 18,
+    "Location": "Nadiad",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 13.3,
+    "Location": "Balrampur",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 21.5,
+    "Location": "Bargarh",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 26.5,
+    "Location": "Mogadishu",
+    "tempcolor": "#fcc59a"
+  },
+  {
+    "Temperature": 14.8,
+    "Location": "Agra",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 21,
+    "Location": "Hyderabad",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 19.6,
+    "Location": "Guntur",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 21,
+    "Location": "Balasore",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 19.7,
+    "Location": "Dhalai",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 16.2,
+    "Location": "Dharmanagar",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 4,
+    "Location": "Koriyama",
+    "tempcolor": "#47b7fc"
+  },
+  {
+    "Temperature": 16.5,
+    "Location": "Godda",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 11,
+    "Location": "Buddha",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 21.5,
+    "Location": "Barwani",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 15.7,
+    "Location": "Purnia",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 21,
+    "Location": "Dhenkanal",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 4.9,
+    "Location": "Udhampur",
+    "tempcolor": "#47b7fc"
+  },
+  {
+    "Temperature": 14,
+    "Location": "Delhi",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 13.7,
+    "Location": "Jhunjhunun",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 14.2,
+    "Location": "Saiha",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 4.3,
+    "Location": "Bageshwar",
+    "tempcolor": "#47b7fc"
+  },
+  {
+    "Temperature": 13.4,
+    "Location": "Mathura",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 14.8,
+    "Location": "Varanasi",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 21,
+    "Location": "Gomati",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 17.9,
+    "Location": "Jalpaiguri",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 27.7,
+    "Location": "Kavaratti",
+    "tempcolor": "#fcc59a"
+  },
+  {
+    "Temperature": 14.6,
+    "Location": "Morena",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 10.5,
+    "Location": "Imphal",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 18.8,
+    "Location": "Dharmapuri",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 10,
+    "Location": "Chamolia",
+    "tempcolor": "#87d1ff"
+  },
+  {
+    "Temperature": 15,
+    "Location": "Dehat",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 11.1,
+    "Location": "Faridkot",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 11,
+    "Location": "Tarn Taran",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 10.8,
+    "Location": "Gurdaspur",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 19.3,
+    "Location": "Yanam",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 12.2,
+    "Location": "Sangrur",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 11.5,
+    "Location": "Muktsar",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 14.7,
+    "Location": "Bhagat",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 17.2,
+    "Location": "Pratapgarh",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 25,
+    "Location": "Ariyalur",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 26.5,
+    "Location": "Mogadishu",
+    "tempcolor": "#fcc59a"
+  },
+  {
+    "Temperature": 11.6,
+    "Location": "Pathankot",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 8.6,
+    "Location": "Dickchou",
+    "tempcolor": "#87d1ff"
+  },
+  {
+    "Temperature": 23.4,
+    "Location": "Tiruvarur",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 11.7,
+    "Location": "Jalandhar",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 24.1,
+    "Location": "Pondicherry",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 11,
+    "Location": "Kapurthala",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 15.3,
+    "Location": "Bhilwara",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 14.8,
+    "Location": "Sirohi",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 21.3,
+    "Location": "Viluppuram",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 8.6,
+    "Location": "Dickchou",
+    "tempcolor": "#87d1ff"
+  },
+  {
+    "Temperature": 16.9,
+    "Location": "Sawai Madhopur",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 13.1,
+    "Location": "Deoria",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 21.2,
+    "Location": "Medinipur",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 20.3,
+    "Location": "Nagar",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 24,
+    "Location": "Tiruppur",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 26,
+    "Location": "Tiruvallur",
+    "tempcolor": "#fcc59a"
+  },
+  {
+    "Temperature": 15.2,
+    "Location": "Hardoi",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 15.5,
+    "Location": "Nagaur",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 20.3,
+    "Location": "Tiruvannamalai",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 21.9,
+    "Location": "Barabanki",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 22.8,
+    "Location": "Wanaparthy",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 24.5,
+    "Location": "Adilabad",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 9.3,
+    "Location": "Kabir Al Kabir",
+    "tempcolor": "#87d1ff"
+  },
+  {
+    "Temperature": 17,
+    "Location": "Dinajpur",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 15,
+    "Location": "Dehat",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 21.2,
+    "Location": "Warangal",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 13.3,
+    "Location": "Balrampur",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 20.3,
+    "Location": "Nagar",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 14.9,
+    "Location": "Sitapur",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 13.8,
+    "Location": "Azamgarh",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 15.9,
+    "Location": "Jalaun",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 18.2,
+    "Location": "Gondar",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 14,
+    "Location": "Ghaziabad",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 20.1,
+    "Location": "Suryapet",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 18.1,
+    "Location": "Udham Das",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 11.6,
+    "Location": "Mahraj",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 25.1,
+    "Location": "Ban Sua Kameng",
+    "tempcolor": "#fcc59a"
+  },
+  {
+    "Temperature": 15.9,
+    "Location": "Latehar",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 10.2,
+    "Location": "Rajouri",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 18.8,
+    "Location": "Mewat",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 15.7,
+    "Location": "Purnia",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 26.1,
+    "Location": "Tapi-Tapi",
+    "tempcolor": "#fcc59a"
+  },
+  {
+    "Temperature": 17.1,
+    "Location": "Sahibganj",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 14,
+    "Location": "Delhi",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 21.3,
+    "Location": "Diu Airport",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 18.9,
+    "Location": "Deoghar",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 20.1,
+    "Location": "Botad",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 14,
+    "Location": "Delhi",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 8,
+    "Location": "Godavari",
+    "tempcolor": "#87d1ff"
+  },
+  {
+    "Temperature": 21.6,
+    "Location": "Mahasamund",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 21.4,
+    "Location": "Kanker",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 24.6,
+    "Location": "Osmanabad",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 17.6,
+    "Location": "Jabalpur",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 18.7,
+    "Location": "Shawasha Hills",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 17.2,
+    "Location": "Bhopal",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 13,
+    "Location": "Karnal",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 22.6,
+    "Location": "Surat",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 14,
+    "Location": "Sonipat",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 13.9,
+    "Location": "Hisar",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 15.5,
+    "Location": "Sidhi",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 15.2,
+    "Location": "Lakhimpur",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 20.3,
+    "Location": "Krishnanagar",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 26,
+    "Location": "Thrissur",
+    "tempcolor": "#fcc59a"
+  },
+  {
+    "Temperature": 23,
+    "Location": "Jalna",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 24.2,
+    "Location": "Goa",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 17.9,
+    "Location": "Biswanath",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 22,
+    "Location": "Raipur",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 19.3,
+    "Location": "Dibrugarh",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 20,
+    "Location": "Balaghat",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 18.9,
+    "Location": "Tinsukia",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 12.1,
+    "Location": "Tamenglong",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 19,
+    "Location": "Muzaffarpur",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 19.5,
+    "Location": "Sambalpur",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 13.5,
+    "Location": "Gopalganj",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 18.2,
+    "Location": "Dima",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 19.8,
+    "Location": "Hassan",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 19.4,
+    "Location": "Vizianagaram",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 19.7,
+    "Location": "Bongaigaon",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 21.4,
+    "Location": "Katni",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 10.5,
+    "Location": "Imphal",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 17.4,
+    "Location": "Bastar",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 11.4,
+    "Location": "Churachandpur",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 22.4,
+    "Location": "Vadodara",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 19.5,
+    "Location": "Malwa",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 22.4,
+    "Location": "Aurangabad",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 16.8,
+    "Location": "Vidisha",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 20,
+    "Location": "Vijayapura",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 14,
+    "Location": "Delhi",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 0.7,
+    "Location": "Tawang",
+    "tempcolor": "#47b7fc"
+  },
+  {
+    "Temperature": 21.3,
+    "Location": "Mysore",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 16.7,
+    "Location": "Madhubani",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 17,
+    "Location": "Raisen",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 19.8,
+    "Location": "Hojai",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 26,
+    "Location": "Udupi",
+    "tempcolor": "#fcc59a"
+  },
+  {
+    "Temperature": 17.8,
+    "Location": "Shajapur",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 17,
+    "Location": "Dewas",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 18,
+    "Location": "Hoshangabad",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 14,
+    "Location": "Khasi",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 20,
+    "Location": "Rajpipla",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 5,
+    "Location": "Baksan",
+    "tempcolor": "#47b7fc"
+  },
+  {
+    "Temperature": 23.3,
+    "Location": "Anantapur",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 19.2,
+    "Location": "Raigarh",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 18,
+    "Location": "Gandhinagar",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 19,
+    "Location": "Betul",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": -0.6,
+    "Location": "Pulwama",
+    "tempcolor": "#25a8fa"
+  },
+  {
+    "Temperature": 24.5,
+    "Location": "Davangere",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 14.1,
+    "Location": "Charkhi Dadri",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 10.5,
+    "Location": "Kangpokpi",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 22.5,
+    "Location": "Khargone",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 24.4,
+    "Location": "Nanded",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 21.7,
+    "Location": "Khandwa",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 14,
+    "Location": "Khasi",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 18.6,
+    "Location": "Sundargarh",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 11.1,
+    "Location": "Garo",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 20,
+    "Location": "Mayurbhanj",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 21,
+    "Location": "Balasore",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 11.9,
+    "Location": "Barnala",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 18,
+    "Location": "Nalbari",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 6.6,
+    "Location": "Ramban",
+    "tempcolor": "#87d1ff"
+  },
+  {
+    "Temperature": 14,
+    "Location": "Delhi",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 26,
+    "Location": "Ernakulam",
+    "tempcolor": "#fcc59a"
+  },
+  {
+    "Temperature": 18.9,
+    "Location": "Dhanbad",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 16,
+    "Location": "Darbhanga",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 24.3,
+    "Location": "Akola",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 23.6,
+    "Location": "Koppal",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 17.5,
+    "Location": "Damoh",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 13,
+    "Location": "Thanesar",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 17,
+    "Location": "Giridih",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 21,
+    "Location": "Bhavnagar",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 20.8,
+    "Location": "Bhojpur",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 19.3,
+    "Location": "South Salmara",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 21,
+    "Location": "Bemetara",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 24,
+    "Location": "Bhandara",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 17,
+    "Location": "Sagar",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 24,
+    "Location": "Palakkad",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 22,
+    "Location": "Somnath",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 25,
+    "Location": "Mumbai",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 17.6,
+    "Location": "Kaimur",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 22,
+    "Location": "Amini",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 8,
+    "Location": "Godavari",
+    "tempcolor": "#87d1ff"
+  },
+  {
+    "Temperature": 16.4,
+    "Location": "Ramgarh",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 7.3,
+    "Location": "Bithra",
+    "tempcolor": "#87d1ff"
+  },
+  {
+    "Temperature": 11,
+    "Location": "East Ham",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 14.9,
+    "Location": "Rayagada",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": -25.6,
+    "Location": "Spiti",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 20.5,
+    "Location": "Bhadrak",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 18,
+    "Location": "Indore",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 14,
+    "Location": "Faridabad",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 25.1,
+    "Location": "Ban Sua Kameng",
+    "tempcolor": "#fcc59a"
+  },
+  {
+    "Temperature": 17.9,
+    "Location": "Sehore",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 20.4,
+    "Location": "Dahod",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": -2.1,
+    "Location": "Kupwara",
+    "tempcolor": "#25a8fa"
+  },
+  {
+    "Temperature": 15.6,
+    "Location": "Supaul",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 18.6,
+    "Location": "Keonjhar",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 16.2,
+    "Location": "Aizawl",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 9,
+    "Location": "Phek",
+    "tempcolor": "#87d1ff"
+  },
+  {
+    "Temperature": 14.1,
+    "Location": "Lunglei",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 21.4,
+    "Location": "Nellore",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 22.4,
+    "Location": "Aurangabad",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 20.5,
+    "Location": "Darrang",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 27,
+    "Location": "Perusahaan Umum Metropolitan",
+    "tempcolor": "#fcc59a"
+  },
+  {
+    "Temperature": 19.6,
+    "Location": "Guntur",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 18.6,
+    "Location": "Korba",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 20.8,
+    "Location": "Janjgir",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 27,
+    "Location": "Siang",
+    "tempcolor": "#fcc59a"
+  },
+  {
+    "Temperature": 19.6,
+    "Location": "Bilaspur",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": -19.3,
+    "Location": "Leh",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 2.6,
+    "Location": "Poonch",
+    "tempcolor": "#47b7fc"
+  },
+  {
+    "Temperature": 26,
+    "Location": "Alappuzha",
+    "tempcolor": "#fcc59a"
+  },
+  {
+    "Temperature": 21.9,
+    "Location": "Sonepur",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 19.2,
+    "Location": "Nayagarh",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 17.1,
+    "Location": "Dumka",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 23.2,
+    "Location": "Chitradurga",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 17.3,
+    "Location": "Jajpur",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 12.6,
+    "Location": "Zunheboto",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 17,
+    "Location": "Shivpuri",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 18,
+    "Location": "Mahesana",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 17.2,
+    "Location": "Jhalawar",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 11,
+    "Location": "Kapurthala",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 17.6,
+    "Location": "Deogarh",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 24,
+    "Location": "Karur",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 21,
+    "Location": "Jagatsinghapur",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 16.9,
+    "Location": "Sawai Madhopur",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 12.1,
+    "Location": "Hoshiarpur",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 15.9,
+    "Location": "Pali",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 16,
+    "Location": "Bhoi",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 15.5,
+    "Location": "Ajmer",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 21,
+    "Location": "Puri",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 21,
+    "Location": "Kendrapara",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 16.6,
+    "Location": "Jodhpur",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 15,
+    "Location": "Ferozepur",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 25,
+    "Location": "Karaikal",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 16.1,
+    "Location": "Jalore",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 18.6,
+    "Location": "Jharsuguda",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 15.3,
+    "Location": "Bhilwara",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 25.1,
+    "Location": "Cuddalore",
+    "tempcolor": "#fcc59a"
+  },
+  {
+    "Temperature": 17.3,
+    "Location": "Jaisalmer",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 25,
+    "Location": "Madurai",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 20.5,
+    "Location": "Banswara",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 11.1,
+    "Location": "Faridkot",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 12.1,
+    "Location": "Kohima",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 20.9,
+    "Location": "Namakkal",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 13.7,
+    "Location": "Jhunjhunun",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 17.5,
+    "Location": "Patan",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 17,
+    "Location": "Chatra",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 14,
+    "Location": "Palwal",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 19,
+    "Location": "Tumakuru",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 16.1,
+    "Location": "Ashoknagar",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 27.9,
+    "Location": "Bog Daadi",
+    "tempcolor": "#fcc59a"
+  },
+  {
+    "Temperature": 11.6,
+    "Location": "Thoubal",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 19.7,
+    "Location": "Kokrajhar",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 20.4,
+    "Location": "Jhabua",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 15.6,
+    "Location": "Gumla",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 21.5,
+    "Location": "Bargarh",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 11.9,
+    "Location": "Kathua",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 22.6,
+    "Location": "Dwarka",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 4,
+    "Location": "Koriyama",
+    "tempcolor": "#47b7fc"
+  },
+  {
+    "Temperature": 22,
+    "Location": "Daman",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 19,
+    "Location": "Mehsana",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 11.6,
+    "Location": "Kakching",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 15.3,
+    "Location": "Saharsa",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 14.5,
+    "Location": "Serchhip",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 17,
+    "Location": "Gaya",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 14.2,
+    "Location": "Lawngtlai",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 15.9,
+    "Location": "Hamirpur",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 18.1,
+    "Location": "Mandla",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 25.6,
+    "Location": "Gulbarga",
+    "tempcolor": "#fcc59a"
+  },
+  {
+    "Temperature": 12.7,
+    "Location": "Rohtas",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 18.2,
+    "Location": "Koraput",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 12.1,
+    "Location": "Kodagu",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 20.2,
+    "Location": "Narsinghpur",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 24.2,
+    "Location": "Goa",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 18.3,
+    "Location": "Chhindwara",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 21.9,
+    "Location": "Pune",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 19.6,
+    "Location": "Narayanpur",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 24.6,
+    "Location": "Yavatmal",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 15.5,
+    "Location": "Nagaur",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 17.7,
+    "Location": "Dimapur",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 13.4,
+    "Location": "Alwar",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 9.9,
+    "Location": "Tuensang",
+    "tempcolor": "#87d1ff"
+  },
+  {
+    "Temperature": 18.8,
+    "Location": "Dharmapuri",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 22,
+    "Location": "Baranagar",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 20.7,
+    "Location": "Majuli",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 20.2,
+    "Location": "Golaghat",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 14,
+    "Location": "Delhi",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 14,
+    "Location": "Delhi",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 13.1,
+    "Location": "Ambala",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 15.2,
+    "Location": "Bhind",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 5,
+    "Location": "Kannada",
+    "tempcolor": "#47b7fc"
+  },
+  {
+    "Temperature": 23.7,
+    "Location": "Jalgaon",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 23.7,
+    "Location": "Raichur",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 8.2,
+    "Location": "Palamutlu",
+    "tempcolor": "#87d1ff"
+  },
+  {
+    "Temperature": 16.1,
+    "Location": "Garhwa",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 11.1,
+    "Location": "Garo",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 10.8,
+    "Location": "Gurdaspur",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 24.5,
+    "Location": "Jagtial",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 17,
+    "Location": "Jaipur",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 11.6,
+    "Location": "Pathankot",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 26,
+    "Location": "Chennai",
+    "tempcolor": "#fcc59a"
+  },
+  {
+    "Temperature": 25,
+    "Location": "Sivaganga",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 14.9,
+    "Location": "Auraiya",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 19.7,
+    "Location": "Dhalai",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 14.2,
+    "Location": "Bikaner",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 14.8,
+    "Location": "Agra",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 11.7,
+    "Location": "Mansa",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 13.4,
+    "Location": "Haridwar",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 11.8,
+    "Location": "Udaipur",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 22.2,
+    "Location": "Erode",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 25.1,
+    "Location": "Nirmal",
+    "tempcolor": "#fcc59a"
+  },
+  {
+    "Temperature": 13,
+    "Location": "Budaun",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 25,
+    "Location": "Ariyalur",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 23.4,
+    "Location": "Tiruvarur",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 24.2,
+    "Location": "Mancherial",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 17,
+    "Location": "Tonk",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 23.4,
+    "Location": "Kanyakumari",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 14.9,
+    "Location": "Bhadohi",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 12.8,
+    "Location": "Sri Ganganagar",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 24,
+    "Location": "Thanjavur",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 6,
+    "Location": "Pithoragarh",
+    "tempcolor": "#87d1ff"
+  },
+  {
+    "Temperature": 14,
+    "Location": "Baghpat",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 13.8,
+    "Location": "Azamgarh",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 19.3,
+    "Location": "Khammam",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 11.5,
+    "Location": "Muktsar",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 17.9,
+    "Location": "Dungarpur",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 20.3,
+    "Location": "Tiruvannamalai",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 26,
+    "Location": "Tiruvallur",
+    "tempcolor": "#fcc59a"
+  },
+  {
+    "Temperature": 21,
+    "Location": "Vikarabad",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 8.6,
+    "Location": "Dickchou",
+    "tempcolor": "#87d1ff"
+  },
+  {
+    "Temperature": -4.6,
+    "Location": "Gadwal",
+    "tempcolor": "#25a8fa"
+  },
+  {
+    "Temperature": 13,
+    "Location": "Hanumangarh",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 21,
+    "Location": "Jangaon",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 16.2,
+    "Location": "Dharmanagar",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 13,
+    "Location": "Bareilly",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 24.5,
+    "Location": "Adilabad",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 14.2,
+    "Location": "Bharatpur",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 26,
+    "Location": "Kanchipuram",
+    "tempcolor": "#fcc59a"
+  },
+  {
+    "Temperature": 15,
+    "Location": "Chittorgarh",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 8.6,
+    "Location": "Dickchou",
+    "tempcolor": "#87d1ff"
+  },
+  {
+    "Temperature": 24,
+    "Location": "Tiruchirappalli",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 25.8,
+    "Location": "Ramanathapuram",
+    "tempcolor": "#fcc59a"
+  },
+  {
+    "Temperature": 11,
+    "Location": "Tarn Taran",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 24,
+    "Location": "Tiruppur",
+    "tempcolor": "#fcdea9"
+  }
+]  {
+    "Temperature": -0.4,
+    "Location": "Pauri",
+    "tempcolor": "#25a8fa"
+  },
+  {
+    "Temperature": 14.7,
+    "Location": "Bhagat",
+    "tempcolor": "#9fd9fc"
+  },
+  {
+    "Temperature": 14.3,
+    "Location": "Rajsamand",
     "tempcolor": "#9fd9fc"
   }
 ]
