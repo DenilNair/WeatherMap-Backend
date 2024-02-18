@@ -70,7 +70,8 @@ async function loadDistrictJson() {
 
 async function loadDistrictwiseTemperatureJson() {
   try {
-    let response = JSON.parse(fs.readFileSync("distrinctWiseTemp.json"));
+    const districtWIseFilePath= path.join(process.cwd(),"dist/distrinctWiseTemp.json");
+    let response = JSON.parse(fs.readFileSync(districtWIseFilePath));
     const listofDistrictwiseTemp = response;
     ////console.log(listofDistrictwiseTemp);
     return listofDistrictwiseTemp;
