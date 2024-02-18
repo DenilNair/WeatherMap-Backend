@@ -1,6 +1,8 @@
 const { response } = require("express");
 const fs = require("fs");
 let existingData = [];
+const districtWiseFilePath= path.join(process.cwd(),"dist/distrinctWiseTemp.json");
+    
 
 const callWeatherApi = (req) => { };
 
@@ -70,8 +72,7 @@ async function loadDistrictJson() {
 
 async function loadDistrictwiseTemperatureJson() {
   try {
-    const districtWIseFilePath= path.join(process.cwd(),"dist/distrinctWiseTemp.json");
-    let response = JSON.parse(fs.readFileSync(districtWIseFilePath));
+    let response = JSON.parse(fs.readFileSync(districtWiseFilePath));
     const listofDistrictwiseTemp = response;
     ////console.log(listofDistrictwiseTemp);
     return listofDistrictwiseTemp;
@@ -101,7 +102,7 @@ async function updateDistrictwiseTemperatureJson(
     }
     //console.log();
     fs.writeFileSync(
-      "distrinctWiseTemp.json",
+      districtWiseFilePath,
       JSON.stringify(listofDistrictwiseTemp),
       (err) => {
         if (err) {
