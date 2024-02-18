@@ -1,0 +1,27 @@
+[
+  {
+    "Temperature": 19.2,
+    "Location": "Guntur",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 21.2,
+    "Location": "Anantapur",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 18,
+    "Location": "Chittoor",
+    "tempcolor": "#c4e9ff"
+  },
+  {
+    "Temperature": 20.8,
+    "Location": "Krishnanagar",
+    "tempcolor": "#fcdea9"
+  },
+  {
+    "Temperature": 11,
+    "Location": "Godavari",
+    "tempcolor": "#9fd9fc"
+  }
+]
