@@ -1,7 +1,7 @@
 const { response } = require("express");
 const fs = require("fs");
 let existingData = [];
-const districtWiseFilePath= path.join(process.cwd(),"dist/distrinctWiseTemp.json");
+const districtWiseFilePath= path.join(process.cwd(),"dist/districtwisetemp.json");
     
 
 const callWeatherApi = (req) => { };
